@@ -1,0 +1,393 @@
+/* Shared touch and small-screen layout rules for the public site and admin. */
+html,
+body {
+  max-width: 100%;
+  overflow-x: clip;
+}
+
+img,
+svg,
+video,
+canvas {
+  max-width: 100%;
+}
+
+.wrap {
+  width: min(1220px, calc(100% - clamp(32px, 6vw, 80px)));
+}
+
+.startup-card,
+.hack-event-card,
+.event-card,
+.admin-row,
+.detail-grid > * {
+  min-width: 0;
+}
+
+@media (max-width: 900px) {
+  .topbar {
+    gap: 18px;
+  }
+
+  .startup-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .detail-grid {
+    grid-template-columns: minmax(0, 1.5fr) minmax(240px, 1fr);
+    gap: 32px;
+  }
+
+  .hack-hero {
+    grid-template-columns: minmax(0, 1fr) minmax(220px, 280px);
+    padding-inline: 32px;
+  }
+
+  .hack-event-card {
+    grid-template-columns: minmax(150px, 220px) minmax(0, 1fr);
+  }
+}
+
+@media (max-width: 760px) {
+  .wrap {
+    width: calc(100% - 36px);
+  }
+
+  .topbar {
+    height: 64px;
+    padding-inline: max(16px, env(safe-area-inset-left));
+    gap: 12px;
+  }
+
+  .brand {
+    flex-shrink: 0;
+    font-size: 16px;
+  }
+
+  .top-actions {
+    gap: 10px;
+    margin-left: auto;
+  }
+
+  .hero {
+    width: calc(100% - 28px);
+    padding: 34px 26px 26px;
+    margin-top: 14px;
+    border-radius: 20px;
+  }
+
+  .hero-actions {
+    flex-wrap: wrap;
+  }
+
+  .hero-foot {
+    flex-wrap: wrap;
+  }
+
+  .startup-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .detail-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 22px;
+  }
+
+  .detail-info {
+    padding: 20px;
+  }
+
+  .hack-topbar .top-actions > .button {
+    display: none;
+  }
+
+  .hack-page-actions {
+    justify-content: flex-start;
+    overflow-x: auto;
+    overscroll-behavior-inline: contain;
+    scrollbar-width: thin;
+    flex-wrap: nowrap;
+    padding-bottom: 5px;
+  }
+
+  .hack-page-actions > * {
+    flex: 0 0 auto;
+  }
+
+  .hack-source,
+  .detail-source-list,
+  .verified {
+    overflow-wrap: anywhere;
+  }
+
+  .dash-tabs {
+    gap: 18px;
+    overflow-x: auto;
+    white-space: nowrap;
+    scrollbar-width: thin;
+  }
+}
+
+@media (max-width: 600px) {
+  .wrap {
+    width: calc(100% - 28px);
+  }
+
+  .hero {
+    width: calc(100% - 24px);
+    padding: 28px 20px 22px;
+    border-radius: 18px;
+  }
+
+  .hero h1 {
+    font-size: clamp(36px, 10vw, 48px);
+    overflow-wrap: anywhere;
+  }
+
+  .hero-lead {
+    font-size: 14px;
+  }
+
+  .hero-actions {
+    align-items: stretch;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .hero-actions .button {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .hero-actions .text-link {
+    align-self: flex-start;
+  }
+
+  .hero-foot {
+    gap: 8px;
+    margin-top: 32px;
+    font-size: 8px;
+  }
+
+  .stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px 12px;
+  }
+
+  .stat-note {
+    grid-column: 1 / -1;
+  }
+
+  .section {
+    padding-block: 54px;
+  }
+
+  .section-head h2,
+  .event-intro h2,
+  .submit-copy h2 {
+    font-size: clamp(32px, 9vw, 42px);
+  }
+
+  .toolbar {
+    flex-direction: column;
+  }
+
+  .searchbox,
+  .filter-toggle {
+    width: 100%;
+    min-height: 46px;
+  }
+
+  .filter-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .filters {
+    align-items: stretch;
+    gap: 16px;
+  }
+
+  .filter-group {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .chips {
+    max-width: 100%;
+    overflow-x: auto;
+    overscroll-behavior-inline: contain;
+    padding-bottom: 3px;
+    scrollbar-width: thin;
+  }
+
+  .chip {
+    flex: 0 0 auto;
+    min-height: 36px;
+  }
+
+  .filter-group select {
+    width: 100%;
+    min-height: 42px;
+  }
+
+  .startup-card {
+    padding: 18px;
+  }
+
+  .card-country {
+    max-width: 58%;
+    text-align: right;
+    overflow-wrap: anywhere;
+  }
+
+  .catalog-footer {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .event-wrap {
+    padding-block: 56px;
+    gap: 28px;
+  }
+
+  .event-card {
+    padding: 20px 18px;
+  }
+
+  .event-card h3 {
+    font-size: clamp(22px, 7vw, 28px);
+  }
+
+  .event-details {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .submit-section {
+    padding-block: 56px;
+  }
+
+  .about-section {
+    padding-block: 48px;
+  }
+
+  .footer-inner {
+    height: auto;
+    padding-block: 22px;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 16px;
+  }
+
+  .footer-inner > *,
+  .footer-inner > span:nth-child(2),
+  .footer-inner > span:nth-child(3),
+  .footer-inner .back-top {
+    justify-self: start;
+  }
+
+  .hack-hero {
+    margin-top: 18px;
+    padding: 24px 18px;
+    border-radius: 18px;
+  }
+
+  .hack-hero h1 {
+    font-size: clamp(32px, 9vw, 40px);
+    overflow-wrap: anywhere;
+  }
+
+  .hack-section {
+    padding-block: 26px;
+  }
+
+  .hack-search {
+    min-width: 0;
+  }
+
+  .hack-search input {
+    font-size: 14px;
+  }
+
+  .hack-event-card {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .hack-event-card h3,
+  .hack-page-head h1,
+  .hack-detail-title {
+    overflow-wrap: anywhere;
+  }
+
+  .hack-detail-side {
+    padding: 18px;
+  }
+
+  .hack-map-full {
+    max-width: 100%;
+  }
+
+  .hack-calendar-item {
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .login-panel {
+    width: 100%;
+    margin: 24px auto;
+  }
+
+  .panel-heading,
+  .dash-head > div:last-child {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .admin-row {
+    padding: 16px;
+  }
+
+  .dialog-actions {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 380px) {
+  .brand {
+    gap: 7px;
+    font-size: 14px;
+  }
+
+  .brand-mark {
+    width: 24px;
+    height: 24px;
+  }
+
+  .hero {
+    padding-inline: 17px;
+  }
+
+  .hero h1 {
+    font-size: 35px;
+  }
+
+  .event-card-top {
+    align-items: flex-start;
+    gap: 10px;
+    flex-direction: column;
+  }
+
+  .event-details {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .hack-search button {
+    padding-inline: 10px;
+  }
+
+  .hack-page-actions .hack-button {
+    padding-inline: 10px;
+  }
+}

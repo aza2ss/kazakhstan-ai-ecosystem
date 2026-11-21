@@ -38,3 +38,6 @@ body{font-family:var(--sans);background:var(--paper);color:var(--ink)}
 .main-menu-panel a:hover{background:#eff5f0;color:#126b3b}
 @media(max-width:900px){.research-metrics{grid-template-columns:repeat(4,minmax(0,1fr))}}
 @media(max-width:700px){.research-metrics{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.main-menu .menu-toggle{display:grid}.top-actions>.button{display:none}}
+.startup-card{position:relative;cursor:pointer}.startup-card h3 a::after{content:"";position:absolute;inset:0}.startup-card .card-source,.startup-card .verified a{position:relative;z-index:1}.startup-card h3 a:focus-visible::after{outline:3px solid #16824b;outline-offset:3px;border-radius:16px}
+.startup-card{position:relative;cursor:pointer}.startup-card h3 a::after{content:"";position:absolute;inset:0}.startup-card .card-source,.startup-card .verified a{position:relative;z-index:1}.startup-card h3 a:focus-visible::after{outline:3px solid #16824b;outline-offset:3px;border-radius:16px}
+.hero{grid-template-columns:minmax(0,1fr);min-height:0;padding-block:64px}.hero-copy{max-width:760px}@media(max-width:700px){.hero{padding-block:30px 24px}}
