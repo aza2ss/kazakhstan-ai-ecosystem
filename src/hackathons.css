@@ -39,3 +39,5 @@
 .detail-source-list{font-size:13px;line-height:1.7;overflow-wrap:anywhere}
 .detail-source-list a{color:#167346}
 @media(max-width:760px){.hack-gallery{grid-template-columns:1fr}}
+
+.hack-readonly-notice{padding:20px 22px;border:1px solid #dce7dd;border-radius:14px;background:#f3f7f3;color:#35523f;line-height:1.6}
