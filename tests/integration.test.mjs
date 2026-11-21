@@ -31,14 +31,14 @@ test('KAZAI API, persistence, moderation and admin CRUD',async t=>{
  r=await req('/api/startups?q=Sergek');assert.equal((await r.json()).total,1);
  r=await req('/api/startups?geo=ca');assert.ok((await r.json()).total>=2);
  r=await req('/api/startup-stats');const startupStats=await r.json();assert.equal(r.status,200);assert.equal(startupStats.published,catalog.total);assert.ok(startupStats.pending>=200);assert.ok(startupStats.discovered>=startupStats.published);
- r=await req('/api/events');assert.equal((await r.json()).items[0].id,'mitu-2026');
- r=await req('/api/events/mitu-2026');const eventDetail=await r.json();assert.equal(r.status,200);assert.equal(eventDetail.tracks.length,3);
+ r=await req('/api/events');assert.equal((await r.json()).items.length,0);
+ r=await req('/api/events/mitu-2026');assert.equal(r.status,404);
  r=await req('/hackathons/events');assert.equal(r.status,200);assert.match(await r.text(),/Хакатоны Казахстана/);
  r=await req('/hackathons/map');assert.equal(r.status,200);r=await req('/hackathons/about');assert.equal(r.status,200);r=await req('/hackathons/registration');assert.equal(r.status,200);
  r=await req('/api/hackathons/categories');const hackCategories=await r.json();assert.equal(r.status,200);assert.ok(hackCategories.items.some(x=>x.slug==='ai'));assert.equal(hackCategories.cities.length,23);assert.ok(hackCategories.items.length>=76);
  r=await req('/api/hackathons/stats');const hackStats=await r.json();assert.equal(hackStats.total,40);assert.ok(hackStats.upcoming+hackStats.ongoing+hackStats.completed===40);
- r=await req('/api/hackathons/events/ai-in-engineering-mitu-2026');const mitu=await r.json();assert.equal(r.status,200);assert.equal(mitu.computed_status,'ongoing');assert.equal(mitu.registration_status,'closed');assert.equal(mitu.location_precision,'city');assert.ok(mitu.source_url.includes('hackathon.metu.kz'));
- r=await req('/api/hackathons/events/winter-of-code-2026');const poster=await r.json();assert.equal(r.status,200);assert.match(poster.image_url,/hackathon\.kz|api\.hackathon\.kz/);assert.equal(poster.gallery.length,1);
+ r=await req('/api/hackathons/events/ai-in-engineering-mitu-2026');assert.equal(r.status,404);
+ r=await req('/api/hackathons/events/winter-of-code-2026');const poster=await r.json();assert.equal(r.status,200);assert.match(poster.image_url,/hackathon\.kz|api\.hackathon\.kz/);assert.equal(poster.gallery.length,1);assert.ok(poster.source_url.startsWith('https://hackathon.kz/hackathon?slug='));
  r=await req('/api/hackathons/events?q=Cosmo');assert.equal((await r.json()).total,1);
  r=await req('/api/hackathons/events?city=Алматы&topic=ai&format=offline');const filteredHackathons=await r.json();assert.ok(filteredHackathons.total>=1);assert.ok(filteredHackathons.items.every(x=>x.city==='Алматы'&&x.category_slugs.includes('ai')&&x.format==='offline'));
  r=await req('/api/hackathons/events?sort=deadline&page=1&limit=2');const pagedHackathons=await r.json();assert.equal(pagedHackathons.items.length,2);assert.ok(pagedHackathons.pages>=2);

@@ -25,7 +25,7 @@
 - `server.mjs` — REST API и статический сервер.
 - `migrations/` — схема SQLite и миграции каталога.
 - `data/catalog.json` — исходные записи каталога; `data/startup-research.json` — опубликованные источники и discovery-кандидаты.
-- `data/hackathons.json` — импортированный снимок событий hackathon.kz и MITU.
+- `data/hackathons.json` — снимок из публичного каталога hackathon.kz.
 - `src/` — клиентские приложения и стили.
 - `scripts/` — PowerShell импортеры и генератор исследовательского отчёта.
 
@@ -49,7 +49,7 @@ node server.mjs
 ./scripts/generate-startup-report.ps1
 ```
 
-Первый скрипт получает публичный каталог и facets hackathon.kz и записывает снимок с 39 событиями источника плюс MITU. Второй обновляет портфель Astana Hub Ventures, discovery-кандидатов RAEM и AI Qazaqstan. Непроверенные кандидаты остаются PENDING и не попадают в публичную выдачу.
+Первый скрипт получает публичный каталог и facets hackathon.kz и записывает до 40 хакатонов из источника. Второй обновляет портфель Astana Hub Ventures, discovery-кандидатов RAEM и AI Qazaqstan. Непроверенные кандидаты остаются PENDING и не попадают в публичную выдачу.
 
 Подробный разбор: [HACKATHONS_IMPORT_REPORT.md](HACKATHONS_IMPORT_REPORT.md), [HACKATHONS_MODULE.md](HACKATHONS_MODULE.md), [STARTUP_RESEARCH_REPORT.md](STARTUP_RESEARCH_REPORT.md).
 
@@ -91,7 +91,7 @@ node server.mjs
 npm test
 ```
 
-Integration suite использует временную SQLite базу и проверяет поиск/фильтры каталога стартапов, динамические счётчики, 40 хакатонов, города и темы, изображения и галерею события, статусы MITU, архив, публичные страницы, submissions, авторизацию и CRUD админ-панели.
+Integration suite использует временную SQLite базу и проверяет поиск/фильтры каталога стартапов, динамические счётчики, 40 хакатонов, города и темы, изображения и галерею события, источниковые страницы хакатонов, архив, публичные страницы, submissions, авторизацию и CRUD админ-панели.
 
 ## База и Git
 

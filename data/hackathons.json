@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-20",
+  "generated_at": "2026-11-21",
   "source_url": "https://hackathon.kz/events",
   "source_period": 2026,
   "source_total_events": 126,
   "source_total_hackathons": 56,
-  "source_upcoming_hackathons": 14,
+  "source_upcoming_hackathons": 13,
   "events": [
     {
       "id": "winter-of-code-2026",
@@ -24,9 +24,7 @@
       "city": "",
       "address": "",
       "format": "online",
-      "audience": [
-        "Хакатон открыт для студентов со всего мира любого колледжа, курса, семестра и академического направления"
-      ],
+      "audience": [],
       "tracks": [
         "open-source",
         "software development",
@@ -40,16 +38,16 @@
       "latitude": null,
       "longitude": null,
       "location_precision": "none",
-      "source_url": "https://hackathon.kz/event?slug=winter-of-code-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=winter-of-code-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://api.hackathon.kz/media/images/fc/fc151647260bc4683f709e94c5bba14e.webp",
       "original_gallery": [
         {
-          "url": "/media/images/fc/fc151647260bc4683f709e94c5bba14e.webp",
+          "url": "https://api.hackathon.kz/media/images/fc/fc151647260bc4683f709e94c5bba14e.webp",
           "caption": "IEEE Computer Society BMSIT&M logo"
         }
       ],
-      "last_verified_at": "2026-11-20",
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -57,57 +55,6 @@
         "open-source",
         "software-development",
         "collaboration"
-      ]
-    },
-    {
-      "id": "introsat-mission-control-hackathon-2026",
-      "slug": "introsat-mission-control-hackathon-2026",
-      "name": "ИнтроСат: онлайн-хакатон по разработке приложения ЦУП",
-      "event_type": "хакатон",
-      "summary": "Онлайн-хакатон сезона 2026 года: команды создают прототип приложения центра управления полётами для учебного спутника «ИнтроСат». Приложение должно принимать данные телеметрии от эмулятора или конструктора, показывать состояние модулей и графики, сохранять журнал и помогать оператору замечать нештатные ситуации. Регистрация и приём работ с 7 августа по 10 ноября 2026 года; онлайн-защиты 11–20 ноября, итоги не позднее 25 ноября. Для подачи нужны исходный код, инструкция по запуску и видео демонстрации; каждый участник регистрируется на платформе «Орбита». Всем участникам обещаны сертификаты, победителям и призёрам дипломы, призы и приглашение на стажировку в компаниях команды организаторов.",
-      "description": "Онлайн-хакатон сезона 2026 года: команды создают прототип приложения центра управления полётами для учебного спутника «ИнтроСат». Приложение должно принимать данные телеметрии от эмулятора или конструктора, показывать состояние модулей и графики, сохранять журнал и помогать оператору замечать нештатные ситуации. Регистрация и приём работ с 7 августа по 10 ноября 2026 года; онлайн-защиты 11–20 ноября, итоги не позднее 25 ноября. Для подачи нужны исходный код, инструкция по запуску и видео демонстрации; каждый участник регистрируется на платформе «Орбита». Всем участникам обещаны сертификаты, победителям и призёрам дипломы, призы и приглашение на стажировку в компаниях команды организаторов.\n\nШкольники 14–18 лет (8–11 классы) из России и других стран, включая Казахстан. Команда от 2 до 5 человек. Участие и защита проходят онлайн; регистрация каждого участника и ссылка на открытую папку с материалами обязательны.",
-      "organizer": "ЦИКЕНО / Образование будущего",
-      "organizer_url": "",
-      "official_url": "https://spaceeducation.info/ru/online-hackaton-mcc/",
-      "registration_url": "https://spaceeducation.info/ru/online-hackaton-mcc/",
-      "start_at": "2026-11-11",
-      "end_at": "2026-11-20",
-      "registration_deadline": "2026-11-10",
-      "country": "Казахстан",
-      "city": "",
-      "address": "",
-      "format": "online",
-      "audience": [
-        "Школьники 14–18 лет (8–11 классы) из России и других стран, включая Казахстан",
-        "регистрация каждого участника и ссылка на открытую папку с материалами обязательны"
-      ],
-      "tracks": [
-        "Школьникам",
-        "Разработка",
-        "Космос"
-      ],
-      "eligibility": "Школьники 14–18 лет (8–11 классы) из России и других стран, включая Казахстан. Команда от 2 до 5 человек. Участие и защита проходят онлайн; регистрация каждого участника и ссылка на открытую папку с материалами обязательны.",
-      "team_size": "",
-      "participation_cost": "",
-      "prize_pool": "Сертификаты участникам; дипломы, призы и возможность стажировки победителям и призёрам",
-      "program": [],
-      "latitude": null,
-      "longitude": null,
-      "location_precision": "none",
-      "source_url": "https://hackathon.kz/event?slug=introsat-mission-control-hackathon-2026",
-      "source_label": "hackathon.kz · публичная карточка",
-      "image_url": "https://hackathon.kz/assets/img/events/introsat-mission-control-hackathon-2026.webp",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
-      "verification_status": "verified",
-      "status": "published",
-      "cancellation_note": "",
-      "category_slugs": [
-        "школьникам",
-        "разработка",
-        "космос"
       ]
     },
     {
@@ -128,10 +75,7 @@
       "city": "",
       "address": "",
       "format": "online",
-      "audience": [
-        "Только работающим специалистам и стажёрам компаний: штатным и частично занятым сотрудникам, студентам на стажировке",
-        "Студенты без работы или стажировки не допускаются"
-      ],
+      "audience": [],
       "tracks": [
         "AI",
         "Vibe Coding"
@@ -144,13 +88,11 @@
       "latitude": null,
       "longitude": null,
       "location_precision": "none",
-      "source_url": "https://hackathon.kz/event?slug=vibe-a-thon-2nd-brain-labs-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=vibe-a-thon-2nd-brain-labs-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/vibe-a-thon-2nd-brain-labs-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -177,10 +119,7 @@
       "city": "Астана",
       "address": "",
       "format": "offline",
-      "audience": [
-        "Школьникам и студентам командами по 2–4 человека",
-        "Нет команды: ищите её в чате участников"
-      ],
+      "audience": [],
       "tracks": [
         "Fintech",
         "Дизайн",
@@ -195,13 +134,11 @@
       "latitude": 51.1282,
       "longitude": 71.4304,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=genesis-hackathon-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=genesis-hackathon-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/genesis-hackathon-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -244,13 +181,11 @@
       "latitude": 44.8488,
       "longitude": 65.4823,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=kyzylorda-edtech-hackathon-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=kyzylorda-edtech-hackathon-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/kyzylorda-edtech-hackathon-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -291,13 +226,11 @@
       "latitude": 43.2383,
       "longitude": 76.9455,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=soul-camp-higgsfield-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=soul-camp-higgsfield-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/soul-camp-higgsfield-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -337,13 +270,11 @@
       "latitude": 43.2383,
       "longitude": 76.9455,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=kmg-digital-hackathon-almaty-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=kmg-digital-hackathon-almaty-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/kmg-digital-hackathon-almaty-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -370,9 +301,7 @@
       "city": "Астана",
       "address": "Онлайн-этап, финал в школе QCS",
       "format": "offline",
-      "audience": [
-        "Школьникам и студентам, командами по 2–4 человека"
-      ],
+      "audience": [],
       "tracks": [
         "Школьникам",
         "Студентам",
@@ -386,13 +315,11 @@
       "latitude": 51.1282,
       "longitude": 71.4304,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=orleu-hack-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=orleu-hack-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/orleu-hack-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -420,10 +347,7 @@
       "city": "Караганда",
       "address": "IT-хаб «Терриконовая долина», ул. Алалыкина, 12",
       "format": "offline",
-      "audience": [
-        "Начинающим и опытным разработчикам, студентам IT-специальностей, тестировщикам и веб-дизайнерам",
-        "kz, в заявке указываются данные всех участников команды"
-      ],
+      "audience": [],
       "tracks": [
         "Разработка",
         "Дизайн",
@@ -437,13 +361,11 @@
       "latitude": 49.806,
       "longitude": 73.085,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=christmas-hackathon-karaganda-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=christmas-hackathon-karaganda-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/christmas-hackathon-karaganda-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -471,10 +393,7 @@
       "city": "Астана",
       "address": "Онлайн-отбор, финал в МВЦ, зона «Код-арена»",
       "format": "offline",
-      "audience": [
-        "Школьникам 10–12 классов и студентам колледжей и вузов, самостоятельно или командой до 3 человек",
-        "Смешанные команды школьников и студентов не допускаются"
-      ],
+      "audience": [],
       "tracks": [
         "AI",
         "Школьникам",
@@ -488,13 +407,11 @@
       "latitude": 51.1282,
       "longitude": 71.4304,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=copilot-it-fest-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=copilot-it-fest-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/copilot-it-fest-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -522,11 +439,7 @@
       "city": "Астана",
       "address": "МВЦ «EXPO», финал на IT Fest",
       "format": "offline",
-      "audience": [
-        "Лига Junior: 7–12 классы и студенты 1–2 курсов колледжей",
-        "Лига Pro: студенты 1–4 курсов бакалавриата",
-        "Для финала участникам до 18 лет нужно согласие родителя"
-      ],
+      "audience": [],
       "tracks": [
         "Дизайн",
         "Школьникам",
@@ -540,13 +453,11 @@
       "latitude": 51.1282,
       "longitude": 71.4304,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=designathon-central-asia-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=designathon-central-asia-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/designathon-central-asia-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -574,9 +485,7 @@
       "city": "Тараз",
       "address": "",
       "format": "offline",
-      "audience": [
-        "От команды подаётся одна заявка: состав, телефоны, место учёбы или работы каждого участника"
-      ],
+      "audience": [],
       "tracks": [
         "Fintech",
         "Кибербезопасность"
@@ -589,13 +498,11 @@
       "latitude": 42.9,
       "longitude": 71.3667,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=itu-hackathon-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=itu-hackathon-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/itu-hackathon-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -622,9 +529,7 @@
       "city": "Алматы",
       "address": "Финал в DALA EDGE (Каскелен)",
       "format": "offline",
-      "audience": [
-        "Студентам вузов Алматы 17–25 лет, индивидуально или командой от 2 до 5 человек"
-      ],
+      "audience": [],
       "tracks": [
         "Студентам",
         "Безопасность",
@@ -638,13 +543,11 @@
       "latitude": 43.2383,
       "longitude": 76.9455,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=ortaq-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=ortaq-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/ortaq-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -672,10 +575,7 @@
       "city": "",
       "address": "",
       "format": "online",
-      "audience": [
-        "Учащиеся из Казахстана и других стран: школьный дивизион для 13–18 лет, студенческий для бакалавриата, магистратуры и PhD",
-        "Начинающие разработчики тоже допускаются"
-      ],
+      "audience": [],
       "tracks": [
         "Школьникам",
         "Студентам",
@@ -689,13 +589,11 @@
       "latitude": null,
       "longitude": null,
       "location_precision": "none",
-      "source_url": "https://hackathon.kz/event?slug=cosmo-hacks-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=cosmo-hacks-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/cosmo-hacks-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -703,6 +601,52 @@
         "школьникам",
         "студентам",
         "разработка"
+      ]
+    },
+    {
+      "id": "introsat-mission-control-hackathon-2026",
+      "slug": "introsat-mission-control-hackathon-2026",
+      "name": "ИнтроСат: онлайн-хакатон по разработке приложения ЦУП",
+      "event_type": "хакатон",
+      "summary": "Онлайн-хакатон сезона 2026 года: команды создают прототип приложения центра управления полётами для учебного спутника «ИнтроСат». Приложение должно принимать данные телеметрии от эмулятора или конструктора, показывать состояние модулей и графики, сохранять журнал и помогать оператору замечать нештатные ситуации. Регистрация и приём работ с 7 августа по 10 ноября 2026 года; онлайн-защиты 11–20 ноября, итоги не позднее 25 ноября. Для подачи нужны исходный код, инструкция по запуску и видео демонстрации; каждый участник регистрируется на платформе «Орбита». Всем участникам обещаны сертификаты, победителям и призёрам дипломы, призы и приглашение на стажировку в компаниях команды организаторов.",
+      "description": "Онлайн-хакатон сезона 2026 года: команды создают прототип приложения центра управления полётами для учебного спутника «ИнтроСат». Приложение должно принимать данные телеметрии от эмулятора или конструктора, показывать состояние модулей и графики, сохранять журнал и помогать оператору замечать нештатные ситуации. Регистрация и приём работ с 7 августа по 10 ноября 2026 года; онлайн-защиты 11–20 ноября, итоги не позднее 25 ноября. Для подачи нужны исходный код, инструкция по запуску и видео демонстрации; каждый участник регистрируется на платформе «Орбита». Всем участникам обещаны сертификаты, победителям и призёрам дипломы, призы и приглашение на стажировку в компаниях команды организаторов.\n\nШкольники 14–18 лет (8–11 классы) из России и других стран, включая Казахстан. Команда от 2 до 5 человек. Участие и защита проходят онлайн; регистрация каждого участника и ссылка на открытую папку с материалами обязательны.",
+      "organizer": "ЦИКЕНО / Образование будущего",
+      "organizer_url": "",
+      "official_url": "https://spaceeducation.info/ru/online-hackaton-mcc/",
+      "registration_url": "https://spaceeducation.info/ru/online-hackaton-mcc/",
+      "start_at": "2026-11-11",
+      "end_at": "2026-11-20",
+      "registration_deadline": "2026-11-10",
+      "country": "Казахстан",
+      "city": "",
+      "address": "",
+      "format": "online",
+      "audience": [],
+      "tracks": [
+        "Школьникам",
+        "Разработка",
+        "Космос"
+      ],
+      "eligibility": "Школьники 14–18 лет (8–11 классы) из России и других стран, включая Казахстан. Команда от 2 до 5 человек. Участие и защита проходят онлайн; регистрация каждого участника и ссылка на открытую папку с материалами обязательны.",
+      "team_size": "",
+      "participation_cost": "",
+      "prize_pool": "Сертификаты участникам; дипломы, призы и возможность стажировки победителям и призёрам",
+      "program": [],
+      "latitude": null,
+      "longitude": null,
+      "location_precision": "none",
+      "source_url": "https://hackathon.kz/hackathon?slug=introsat-mission-control-hackathon-2026",
+      "source_label": "hackathon.kz · публичная карточка",
+      "image_url": "https://hackathon.kz/assets/img/events/introsat-mission-control-hackathon-2026.webp",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
+      "verification_status": "verified",
+      "status": "published",
+      "cancellation_note": "",
+      "category_slugs": [
+        "школьникам",
+        "разработка",
+        "космос"
       ]
     },
     {
@@ -723,9 +667,7 @@
       "city": "Астана",
       "address": "Nazarbayev University",
       "format": "offline",
-      "audience": [
-        "Студентам со всего Казахстана"
-      ],
+      "audience": [],
       "tracks": [
         "Продукты",
         "Стартапы",
@@ -739,13 +681,11 @@
       "latitude": 51.1282,
       "longitude": 71.4304,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=zimran-business-cup-2-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=zimran-business-cup-2-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/zimran-business-cup-2-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -773,9 +713,7 @@
       "city": "Астана",
       "address": "Nazarbayev University",
       "format": "offline",
-      "audience": [
-        "Только студентам Nazarbayev University, которые хотят поработать над реальными промышленными задачами"
-      ],
+      "audience": [],
       "tracks": [
         "Инженерия",
         "Студентам"
@@ -788,13 +726,11 @@
       "latitude": 51.1282,
       "longitude": 71.4304,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=catalyst-nu-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=catalyst-nu-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/catalyst-nu-2026-hkz.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -834,13 +770,11 @@
       "latitude": null,
       "longitude": null,
       "location_precision": "none",
-      "source_url": "https://hackathon.kz/event?slug=nasa-space-apps-challenge-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=nasa-space-apps-challenge-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/nasa-space-apps-challenge-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -867,10 +801,7 @@
       "city": "Павлодар",
       "address": "Мейкерспейс",
       "format": "offline",
-      "audience": [
-        "Школьникам, студентам и молодым профессионалам",
-        "Участие бесплатное, но требует предварительной регистрации: каждый город набирает участников сам, регистрация на странице площадки Павлодар на spaceappschallenge"
-      ],
+      "audience": [],
       "tracks": [
         "Данные",
         "Космос",
@@ -885,13 +816,11 @@
       "latitude": 52.2873,
       "longitude": 76.9674,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=nasa-space-apps-challenge-2026-pavlodar",
+      "source_url": "https://hackathon.kz/hackathon?slug=nasa-space-apps-challenge-2026-pavlodar",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/nasa-space-apps-kz-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -920,10 +849,7 @@
       "city": "Петропавловск",
       "address": "Мейкерспейс",
       "format": "offline",
-      "audience": [
-        "Школьникам, студентам и молодым профессионалам",
-        "Участие бесплатное, но требует предварительной регистрации: каждый город набирает участников сам, регистрация на странице площадки Петропавловск на spaceappschallenge"
-      ],
+      "audience": [],
       "tracks": [
         "Данные",
         "Космос",
@@ -938,13 +864,11 @@
       "latitude": 54.8667,
       "longitude": 69.15,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=nasa-space-apps-challenge-2026-petropavlovsk",
+      "source_url": "https://hackathon.kz/hackathon?slug=nasa-space-apps-challenge-2026-petropavlovsk",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/nasa-space-apps-kz-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -973,9 +897,7 @@
       "city": "Кызылорда",
       "address": "Kyzylorda Hub, ул. Айтеке би, 29А",
       "format": "offline",
-      "audience": [
-        "Разработчикам, дизайнерам, аналитикам, студентам, госслужащим и всем, у кого есть IT-решение"
-      ],
+      "audience": [],
       "tracks": [
         "IT",
         "Стартапы",
@@ -989,13 +911,11 @@
       "latitude": 44.8488,
       "longitude": 65.4823,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=kyzylorda-govtech-hackathon-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=kyzylorda-govtech-hackathon-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/kyzylorda-govtech-hackathon-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1023,9 +943,7 @@
       "city": "",
       "address": "",
       "format": "online",
-      "audience": [
-        "Студенты и молодые начинающие предприниматели из Казахстана и других стран с бизнес-идеей"
-      ],
+      "audience": [],
       "tracks": [
         "Стартапы",
         "Бизнес",
@@ -1039,13 +957,11 @@
       "latitude": null,
       "longitude": null,
       "location_precision": "none",
-      "source_url": "https://hackathon.kz/event?slug=international-youth-business-competition-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=international-youth-business-competition-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/international-youth-business-competition-2026.webp",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1073,9 +989,7 @@
       "city": "Павлодар",
       "address": "Павлодар",
       "format": "offline",
-      "audience": [
-        "Студентам, молодым специалистам, разработчикам и дизайнерам"
-      ],
+      "audience": [],
       "tracks": [
         "AI",
         "IT",
@@ -1089,13 +1003,11 @@
       "latitude": 52.2873,
       "longitude": 76.9674,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=pavlodar-ai-hackathon-fest-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=pavlodar-ai-hackathon-fest-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/pavlodar-ai-hackathon-fest-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1123,9 +1035,7 @@
       "city": "Шымкент",
       "address": "Shymkent Hub, Север 66/2",
       "format": "offline",
-      "audience": [
-        "Разработчикам и командам"
-      ],
+      "audience": [],
       "tracks": [
         "Безопасность"
       ],
@@ -1137,13 +1047,11 @@
       "latitude": 42.3417,
       "longitude": 69.5901,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=safenet-kz-hackathon-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=safenet-kz-hackathon-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/safenet-kz-hackathon-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1183,13 +1091,11 @@
       "latitude": 42.9,
       "longitude": 71.3667,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=hackathon-digital-taraz-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=hackathon-digital-taraz-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/hackathon-digital-taraz-2026.webp",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1217,11 +1123,7 @@
       "city": "Астана",
       "address": "Nazarbayev University",
       "format": "offline",
-      "audience": [
-        "Участники от 16 лет: школьники, студенты и работающие специалисты",
-        "Команда: 2–4 человека, причём хотя бы одному участнику должно быть 18 лет",
-        "Можно зарегистрироваться одному и затем найти команду в чате участников, но к дедлайну в составе должны быть минимум двое"
-      ],
+      "audience": [],
       "tracks": [
         "Data Science",
         "AI",
@@ -1235,13 +1137,11 @@
       "latitude": 51.1282,
       "longitude": 71.4304,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=datathon-26-nu-fortebank",
+      "source_url": "https://hackathon.kz/hackathon?slug=datathon-26-nu-fortebank",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/datathon-26-nu-fortebank.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1283,13 +1183,11 @@
       "latitude": 50.249,
       "longitude": 66.92,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=arkalyq-ai-hackathon-vibecoding-challenge-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=arkalyq-ai-hackathon-vibecoding-challenge-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/arkalyq-ai-hackathon-vibecoding-challenge-2026-ru.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1331,13 +1229,11 @@
       "latitude": 43.2383,
       "longitude": 76.9455,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=wit-teens-challenge-2026-2",
+      "source_url": "https://hackathon.kz/hackathon?slug=wit-teens-challenge-2026-2",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/wit-teens-challenge-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1365,9 +1261,7 @@
       "city": "",
       "address": "Онлайн (dev.meta.ai)",
       "format": "online",
-      "audience": [
-        "Разработчики со всего мира — соло (инди-трек) или стартап-командой (отдельный трек)"
-      ],
+      "audience": [],
       "tracks": [
         "AI",
         "LLM",
@@ -1381,13 +1275,11 @@
       "latitude": null,
       "longitude": null,
       "location_precision": "none",
-      "source_url": "https://hackathon.kz/event?slug=meta-global-ai-developer-hackathon",
+      "source_url": "https://hackathon.kz/hackathon?slug=meta-global-ai-developer-hackathon",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://api.hackathon.kz/media/images/c6/c68dd1615fae2b92e042159b71186a26.png",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1415,9 +1307,7 @@
       "city": "",
       "address": "",
       "format": "online",
-      "audience": [
-        "Школьникам и студентам Казахстана, командам строго от 2 до 4 человек: соло не допускается, один человек может быть только в одной команде"
-      ],
+      "audience": [],
       "tracks": [
         "Школьникам",
         "Студентам",
@@ -1431,13 +1321,11 @@
       "latitude": null,
       "longitude": null,
       "location_precision": "none",
-      "source_url": "https://hackathon.kz/event?slug=admit-hackathon-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=admit-hackathon-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1479,13 +1367,11 @@
       "latitude": null,
       "longitude": null,
       "location_precision": "none",
-      "source_url": "https://hackathon.kz/event?slug=assemblyai-voice-agent-hackathon",
+      "source_url": "https://hackathon.kz/hackathon?slug=assemblyai-voice-agent-hackathon",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://api.hackathon.kz/media/images/a5/a56a687d4fdfc927b025ecada4fc01d0.png",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1513,9 +1399,7 @@
       "city": "Астана / Алматы",
       "address": "Astana Hub, павильон C4.6, 1 этаж, Event Hall",
       "format": "offline",
-      "audience": [
-        "Врачи, IT-разработчики, дата-сайентисты, дизайнеры и продакт-менеджеры"
-      ],
+      "audience": [],
       "tracks": [
         "MedTech",
         "HealthTech",
@@ -1531,13 +1415,11 @@
       "latitude": null,
       "longitude": null,
       "location_precision": "none",
-      "source_url": "https://hackathon.kz/event?slug=medhub-haqathon",
+      "source_url": "https://hackathon.kz/hackathon?slug=medhub-haqathon",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://api.hackathon.kz/media/images/7a/7af9c743f237e500a1a11f49adb78a14.png",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1567,10 +1449,7 @@
       "city": "",
       "address": "",
       "format": "online",
-      "audience": [
-        "Для школьников и студентов есть отдельная номинация Next Gen: вместо публикации в сторе принимают видео и открытый исходный код, то есть платный аккаунт разработчика Apple или Google не нужен, а несовершеннолетним нужно согласие родителя",
-        "общение участников в Discord"
-      ],
+      "audience": [],
       "tracks": [
         "Продукты",
         "IT",
@@ -1584,13 +1463,11 @@
       "latitude": null,
       "longitude": null,
       "location_precision": "none",
-      "source_url": "https://hackathon.kz/event?slug=shipaton-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=shipaton-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/shipaton-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1618,9 +1495,7 @@
       "city": "Астана",
       "address": "Площадка EXPO",
       "format": "offline",
-      "audience": [
-        "Участникам 18+ с опытом или образованием в разработке: работаете в IT, учитесь по профильной специальности (или учились очно в последние 12 месяцев) либо можете показать свои проекты и прототипы"
-      ],
+      "audience": [],
       "tracks": [
         "AI",
         "IT",
@@ -1634,13 +1509,11 @@
       "latitude": 51.1282,
       "longitude": 71.4304,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=hackalem-ai",
+      "source_url": "https://hackathon.kz/hackathon?slug=hackalem-ai",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/hackalem-ai-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1668,9 +1541,7 @@
       "city": "",
       "address": "https://lablab.ai/ai-hackathons/ibm-bob-2-hackathon",
       "format": "online",
-      "audience": [
-        "В хакатоне могут принять участие разработчики любого уровня, дата-сайентисты, UI/UX-дизайнеры, продуктовые менеджеры и студенты технических специальностей старше 18 лет"
-      ],
+      "audience": [],
       "tracks": [
         "AI",
         "Разработка ПО",
@@ -1685,13 +1556,11 @@
       "latitude": null,
       "longitude": null,
       "location_precision": "none",
-      "source_url": "https://hackathon.kz/event?slug=ibm-bob-2-0-hackathon",
+      "source_url": "https://hackathon.kz/hackathon?slug=ibm-bob-2-0-hackathon",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fevents%2FIBM-BOB-2-0-Hackathon_Main_banner_-03--1-_q321yfha4o5lspjrblugxdv0.jpg&w=1080&q=75",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1734,13 +1603,11 @@
       "latitude": null,
       "longitude": null,
       "location_precision": "none",
-      "source_url": "https://hackathon.kz/event?slug=elevate-women-global-hackathon-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=elevate-women-global-hackathon-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/elevate-women-global-hackathon-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1768,9 +1635,7 @@
       "city": "",
       "address": "",
       "format": "online",
-      "audience": [
-        "Школьникам и студентам 14–19 лет, команды от 1 до 5 человек"
-      ],
+      "audience": [],
       "tracks": [
         "Веб",
         "AI",
@@ -1784,13 +1649,11 @@
       "latitude": null,
       "longitude": null,
       "location_precision": "none",
-      "source_url": "https://hackathon.kz/event?slug=locus-startup-hackathon-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=locus-startup-hackathon-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/locus-startup-hackathon-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1818,10 +1681,7 @@
       "city": "Усть-Каменогорск",
       "address": "Oskemen Hub, ул. Казахстан, 59/1",
       "format": "offline",
-      "audience": [
-        "Разработчикам, дизайнерам, аналитикам и стартаперам региона",
-        "Организаторы отдельно оговаривают, что статус не важен: школьник, студент или действующий IT-специалист: нужны желание делать и учиться"
-      ],
+      "audience": [],
       "tracks": [
         "IT",
         "Стартапы",
@@ -1835,13 +1695,11 @@
       "latitude": 49.9483,
       "longitude": 82.6275,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=codemasters-hackathon-7-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=codemasters-hackathon-7-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/codemasters-hackathon-7-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1869,9 +1727,7 @@
       "city": "Алматы",
       "address": "Отель Novotel",
       "format": "offline",
-      "audience": [
-        "Школьникам 7–11 классов: разработчикам, дизайнерам и мейкерам"
-      ],
+      "audience": [],
       "tracks": [
         "IT",
         "Студентам"
@@ -1884,13 +1740,11 @@
       "latitude": 43.2383,
       "longitude": 76.9455,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=fiztex-hackathon-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=fiztex-hackathon-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/fiztex-hackathon-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1917,9 +1771,7 @@
       "city": "Астана",
       "address": "Астана",
       "format": "offline",
-      "audience": [
-        "Специалисты по ИБ, CTF-команды, студенты"
-      ],
+      "audience": [],
       "tracks": [
         "Безопасность"
       ],
@@ -1931,13 +1783,11 @@
       "latitude": 51.1282,
       "longitude": 71.4304,
       "location_precision": "city",
-      "source_url": "https://hackathon.kz/event?slug=kazhackstan-2026",
+      "source_url": "https://hackathon.kz/hackathon?slug=kazhackstan-2026",
       "source_label": "hackathon.kz · публичная карточка",
       "image_url": "https://hackathon.kz/assets/img/events/kazhackstan-2026.jpg",
-      "original_gallery": [
-        null
-      ],
-      "last_verified_at": "2026-11-20",
+      "original_gallery": [],
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
@@ -1946,34 +1796,30 @@
       ]
     },
     {
-      "id": "mitu-ai-engineering-2026",
-      "slug": "ai-in-engineering-mitu-2026",
-      "name": "AI in Engineering Hackathon 2026",
+      "id": "zubr-capital-young-ai-hackathon-2026",
+      "slug": "zubr-capital-young-ai-hackathon-2026",
+      "name": "Zubr Capital Young AI Hackathon",
       "event_type": "хакатон",
-      "summary": "Очный инженерный хакатон MITU о применении искусственного интеллекта в цифровой экономике, умном кампусе и зелёных технологиях.",
-      "description": "AI in Engineering Hackathon проходит в Международном инженерно-технологическом университете. Официальная страница указывает даты 20–21 ноября 2026 года и регистрацию до 17 ноября.",
-      "organizer": "Международный инженерно-технологический университет (MITU / METU)",
-      "organizer_url": "https://metu.kz/",
-      "official_url": "https://hackathon.metu.kz/",
-      "registration_url": "https://hackathon.metu.kz/#registration",
-      "start_at": "2026-11-20T09:00:00+05:00",
-      "end_at": "2026-11-21T13:30:00+05:00",
-      "registration_deadline": "2026-11-17T18:00:00+05:00",
+      "summary": "Однодневный хакатон для студентов, где за день собирают AI-стартап: с утра команду подбирают на месте (или приходишь со своей идеей), к вечеру готовы работающий прототип и питч перед настоящими инвесторами. Уметь программировать заранее не нужно: весь день рядом менторы: инвесторы и топ-менеджеры портфельных компаний Zubr Capital. С 9:30 до 20:00, на русском языке, участие бесплатное. Партнёры: Naturally Artificial, MOST Hub Almaty, Almaty Hub, OD Consulting, Black Swan community, IGB.",
+      "description": "Однодневный хакатон для студентов, где за день собирают AI-стартап: с утра команду подбирают на месте (или приходишь со своей идеей), к вечеру готовы работающий прототип и питч перед настоящими инвесторами. Уметь программировать заранее не нужно: весь день рядом менторы: инвесторы и топ-менеджеры портфельных компаний Zubr Capital. С 9:30 до 20:00, на русском языке, участие бесплатное. Партнёры: Naturally Artificial, MOST Hub Almaty, Almaty Hub, OD Consulting, Black Swan community, IGB.\n\nСтудентам университетов и молодым фаундерам. Программировать не обязательно: команды собирают из бизнеса, продукта, дизайна и разработки. Две формы на выбор: «Join as a Participant», если идёшь учиться и собирать команду на месте, и «Join as a startup Founder», если приходишь со своим проектом. Участие бесплатное, заявки принимают до конца дня 12 сентября.",
+      "organizer": "Zubr Capital / The League of Analysts",
+      "organizer_url": "",
+      "official_url": "https://league.zubrcapital.com/hackathon",
+      "registration_url": "https://league.zubrcapital.com/hackathon",
+      "start_at": "2026-09-19",
+      "end_at": "2026-09-19",
+      "registration_deadline": "2026-09-12",
       "country": "Казахстан",
       "city": "Алматы",
-      "address": "93Г/5, Алматы",
+      "address": "",
       "format": "offline",
-      "audience": [
-        "Студенты",
-        "Разработчики",
-        "Инженеры"
-      ],
+      "audience": [],
       "tracks": [
-        "AI for Digital Economy & Smart Business",
-        "AI for Smart Campus",
-        "AI for Green Technologies"
+        "AI",
+        "Стартапы",
+        "Студентам"
       ],
-      "eligibility": "",
+      "eligibility": "Студентам университетов и молодым фаундерам. Программировать не обязательно: команды собирают из бизнеса, продукта, дизайна и разработки. Две формы на выбор: «Join as a Participant», если идёшь учиться и собирать команду на месте, и «Join as a startup Founder», если приходишь со своим проектом. Участие бесплатное, заявки принимают до конца дня 12 сентября.",
       "team_size": "",
       "participation_cost": "",
       "prize_pool": "",
@@ -1981,18 +1827,18 @@
       "latitude": 43.2383,
       "longitude": 76.9455,
       "location_precision": "city",
-      "source_url": "https://hackathon.metu.kz/",
-      "source_label": "Официальный сайт MITU",
-      "image_url": "",
+      "source_url": "https://hackathon.kz/hackathon?slug=zubr-capital-young-ai-hackathon-2026",
+      "source_label": "hackathon.kz · публичная карточка",
+      "image_url": "https://hackathon.kz/assets/img/events/zubr-capital-young-ai-hackathon-2026.jpg",
       "original_gallery": [],
-      "last_verified_at": "2026-11-20",
+      "last_verified_at": "2026-11-21",
       "verification_status": "verified",
       "status": "published",
       "cancellation_note": "",
       "category_slugs": [
-        "ai-for-digital-economy-smart-business",
-        "ai-for-smart-campus",
-        "ai-for-green-technologies"
+        "ai",
+        "стартапы",
+        "студентам"
       ]
     }
   ],
@@ -2335,5 +2181,5 @@
     "Усть-Каменогорск",
     "Шымкент"
   ],
-  "note": "39 hackathon.kz hackathons: all active/upcoming plus the 25 most recently ended in 2026; MITU is added from its official event page."
+  "note": "40 hackathons directly from hackathon.kz: every active/upcoming 2026 hackathon plus the most recently ended records to fill the snapshot."
 }

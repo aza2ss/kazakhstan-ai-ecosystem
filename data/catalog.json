@@ -134,25 +134,5 @@
       "activity_geography": "Казахстан и международные рынки"
     }
   ],
-  "events": [
-    {
-      "id": "mitu-2026",
-      "name": "AI in Engineering Hackathon 2026",
-      "organizer": "Международный инженерно-технологический университет (MITU / METU)",
-      "start": "2026-11-20T00:00:00+05:00",
-      "end": "2026-11-22T00:00:00+05:00",
-      "registrationDeadline": "2026-11-17T18:00:00+05:00",
-      "city": "Алматы",
-      "address": "Аль-Фараби 93г/5, MITU",
-      "format": "Offline",
-      "registration": "Закрыта",
-      "website": "https://hackathon.metu.kz/",
-      "tracks": [
-        "AI for Digital Economy & Smart Business",
-        "AI for Smart Campus",
-        "AI for Green Technologies"
-      ],
-      "note": "Часы начала и окончания не указаны: даты интерпретируются как календарные дни по времени Алматы."
-    }
-  ]
+  "events": []
 }
