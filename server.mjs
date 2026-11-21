@@ -48,8 +48,8 @@ const sessions=new Map(), limits=new Map();
 const APP_SECRET=process.env.SESSION_SECRET || (READ_ONLY_DEPLOYMENT ? randomBytes(32).toString('hex') : process.env.NODE_ENV==='production' ? '' : 'local-development-key-change-before-deployment');
 if(!APP_SECRET) throw new Error('Set SESSION_SECRET in production');
 const PORT=Number(process.env.PORT||4173);
-const MIME={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.svg':'image/svg+xml','.ico':'image/x-icon'};
-const PUBLIC_FILES=new Set(['/','/index.html','/admin.html','/startup.html','/event.html','/hackathons.html','/favicon.svg','/src/styles.css','/src/responsive.css','/src/app.js','/src/admin.css','/src/admin.js','/src/detail.css','/src/detail.js','/src/hackathons.css','/src/hackathons.js','/src/hackathons-admin.css','/src/read-only.js']);
+const MIME={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.svg':'image/svg+xml','.png':'image/png','.ico':'image/x-icon'};
+const PUBLIC_FILES=new Set(['/','/index.html','/admin.html','/startup.html','/event.html','/hackathons.html','/favicon.svg','/startup-hub-qr.png','/startup-hub-qr.svg','/src/styles.css','/src/responsive.css','/src/app.js','/src/admin.css','/src/admin.js','/src/detail.css','/src/detail.js','/src/hackathons.css','/src/hackathons.js','/src/hackathons-admin.css','/src/read-only.js']);
 function json(res,status,body,headers={}){res.writeHead(status,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store','X-Content-Type-Options':'nosniff','X-Frame-Options':'DENY',...headers});res.end(JSON.stringify(body));}
 function parseCookies(req){return Object.fromEntries((req.headers.cookie||'').split(';').map(x=>x.trim().split('=').map(decodeURIComponent)).filter(x=>x.length===2));}
 function idFrom(req){return req.socket.remoteAddress||'unknown';}

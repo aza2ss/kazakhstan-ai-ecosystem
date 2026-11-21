@@ -469,3 +469,23 @@ canvas {
     padding-inline: 10px;
   }
 }
+@media (max-width: 600px) {
+  .hack-hero-copy {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .hack-hero h1 {
+    width: 100%;
+    word-break: normal;
+    overflow-wrap: normal;
+    hyphens: manual;
+    font-size: clamp(30px, 8vw, 38px);
+    line-height: 1.08;
+  }
+}
+@media (max-width: 600px) {
+  .hack-hero {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
