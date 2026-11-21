@@ -1,0 +1,5354 @@
+{
+  "generated_at": "2026-11-20",
+  "sources": [
+    "https://astanahub.vc/portfolio.html",
+    "https://raem.kz/startup-radar/",
+    "https://aiqazaqstan.com/ru/startups",
+    "https://www.rise.com.kz/reports/kazakhstan-startup-landscape-2026"
+  ],
+  "published": [
+    {
+      "id": "zypl-ai",
+      "name": "Zypl.ai",
+      "tagline": "Кредитный скоринг для банков на основе ИИ и синтетических данных",
+      "description": "Кредитный скоринг для банков на основе ИИ и синтетических данных Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai fintech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-Series A",
+      "website": "https://zypl.ai",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "Z",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "ai-ml",
+        "fintech"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-zypl.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://zypl.ai",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "axellero",
+      "name": "Axellero",
+      "tagline": "Low-code платформа для ускорения цифровой трансформации",
+      "description": "Low-code платформа для ускорения цифровой трансформации Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "developer-tools",
+      "city": "",
+      "country": "",
+      "stage": "Seed",
+      "website": "https://axellero.io/ru",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "A",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "other-technology",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-axellero.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://axellero.io/ru",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "fleetmule",
+      "name": "Fleetmule",
+      "tagline": "Автоматизация соблюдения требований DOT для грузовых автопарков",
+      "description": "Автоматизация соблюдения требований DOT для грузовых автопарков Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "logistics",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://fleetmule.com/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "F",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "logistics-mobility",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/fleetmule.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://fleetmule.com/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "surfaice",
+      "name": "Surfaice",
+      "tagline": "Автономное ПО на базе ИИ для строительства",
+      "description": "Автономное ПО на базе ИИ для строительства Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai other",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://www.surfaice.pro/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "S",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/surfaice.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://www.surfaice.pro/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "rette",
+      "name": "Rette",
+      "tagline": "Управление финансовым циклом медицинских организаций с помощью ИИ-агентов",
+      "description": "Управление финансовым циклом медицинских организаций с помощью ИИ-агентов Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai healthtech",
+      "city": "",
+      "country": "",
+      "stage": "Seed",
+      "website": "https://rette.ai/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "R",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "ai-ml",
+        "healthtech",
+        "medtech"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/rette.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://rette.ai/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "alma",
+      "name": "Alma",
+      "tagline": "Юридические услуги по иммиграции с использованием ИИ",
+      "description": "Юридические услуги по иммиграции с использованием ИИ Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai other",
+      "city": "",
+      "country": "",
+      "stage": "Series A",
+      "website": "https://www.tryalma.com/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "A",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-alma.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://www.tryalma.com/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "mirai-tech",
+      "name": "Mirai Tech",
+      "tagline": "Носимые датчики с ИИ для реабилитации и спорта",
+      "description": "Носимые датчики с ИИ для реабилитации и спорта Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai deeptech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://miraitech.health/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "M",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "ai-ml",
+        "deeptech"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/mirai.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://miraitech.health/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "perceptis",
+      "name": "Perceptis",
+      "tagline": "Операционная система на базе ИИ для сферы профессиональных услуг",
+      "description": "Операционная система на базе ИИ для сферы профессиональных услуг Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://perceptis.ai/ru/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "P",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/perceptis.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://perceptis.ai/ru/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "pandev",
+      "name": "Pandev",
+      "tagline": "Платформа инженерной аналитики на базе ИИ",
+      "description": "Платформа инженерной аналитики на базе ИИ Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai developer-tools",
+      "city": "",
+      "country": "",
+      "stage": "Seed",
+      "website": "https://pandev-metrics.com/ru",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "P",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/pandev.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://pandev-metrics.com/ru",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "luwo",
+      "name": "Luwo",
+      "tagline": "Информатика нового поколения для школ",
+      "description": "Информатика нового поколения для школ Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "Edtech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-Seed",
+      "website": "https://luwo.ai/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "L",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "edtech",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/luwo.webp",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://luwo.ai/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "nebular",
+      "name": "Nebular",
+      "tagline": "Персонализированная образовательная система на базе ИИ",
+      "description": "Персонализированная образовательная система на базе ИИ Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "Edtech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-Seed",
+      "website": "https://nebular.live/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "N",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "edtech",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/nebular.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://nebular.live/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "gro-now",
+      "name": "Gro.Now",
+      "tagline": "Инсайты на базе AI для анализа рынка, клиентов и конкурентов.",
+      "description": "Инсайты на базе AI для анализа рынка, клиентов и конкурентов. Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://www.gro.now/ru",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "G",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-gro-now.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://www.gro.now/ru",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "epsilon",
+      "name": "Epsilon",
+      "tagline": "Трансформация электронного правительства с помощью ИИ",
+      "description": "Трансформация электронного правительства с помощью ИИ Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai other",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://epsilon3.ai/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "E",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-epsilon.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://epsilon3.ai/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "avm-ai",
+      "name": "AVM.AI",
+      "tagline": "AI copilot для product managers",
+      "description": "AI copilot для product managers Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://avm-ai.kz/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "A",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-avm-ai1.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://avm-ai.kz/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "daryn-online",
+      "name": "Daryn Online",
+      "tagline": "Онлайн-платформа для школьного обучения и подготовки к экзаменам",
+      "description": "Онлайн-платформа для школьного обучения и подготовки к экзаменам Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "edtech",
+      "city": "",
+      "country": "",
+      "stage": "Seed",
+      "website": "https://daryn.online/ru",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "D",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "edtech",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-daryn-online.webp",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://daryn.online/ru",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "paidax",
+      "name": "Paidax",
+      "tagline": "Цифровая инвестиционная платформа для частных инвесторов",
+      "description": "Цифровая инвестиционная платформа для частных инвесторов Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "fintech",
+      "city": "",
+      "country": "",
+      "stage": "Seed",
+      "website": "https://paidax.kz/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "P",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "fintech",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-paidax.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://paidax.kz/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "macdent",
+      "name": "Macdent",
+      "tagline": "CRM и платформа управления для стоматологических клиник",
+      "description": "CRM и платформа управления для стоматологических клиник Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "healthtech",
+      "city": "",
+      "country": "",
+      "stage": "Seed",
+      "website": "https://macdent.kz/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "M",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "healthtech",
+        "medtech",
+        "saas-b2b"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-macdent.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://macdent.kz/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "tryverse",
+      "name": "Tryverse",
+      "tagline": "Интерактивная 3D-платформа виртуальной примерки для ритейла",
+      "description": "Интерактивная 3D-платформа виртуальной примерки для ритейла Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "retail",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://tryverse.io/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "T",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ecommerce",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-tryverse.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://tryverse.io/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "on-ai",
+      "name": "on.ai",
+      "tagline": "AI-агент по продажам для клиник и сервисного бизнеса",
+      "description": "AI-агент по продажам для клиник и сервисного бизнеса Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://ooon.ai/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "O",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-on-ai.webp",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://ooon.ai/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "rosta",
+      "name": "Rosta",
+      "tagline": "Платформа автоматизации торговли и ресторанного бизнеса",
+      "description": "Платформа автоматизации торговли и ресторанного бизнеса Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "retail",
+      "city": "",
+      "country": "",
+      "stage": "Seed",
+      "website": "https://rosta.kz/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "R",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ecommerce",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-rosta.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://rosta.kz/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "yume",
+      "name": "Yume",
+      "tagline": "CRM-платформа для арендного бизнеса",
+      "description": "CRM-платформа для арендного бизнеса Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "retail",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://yume.cloud/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "Y",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "saas-b2b",
+        "ecommerce"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-yume.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://yume.cloud/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "qaztwin",
+      "name": "QazTWIN",
+      "tagline": "Цифровые двойники промышленных объектов на базе ИИ",
+      "description": "Цифровые двойники промышленных объектов на базе ИИ Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai deeptech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://qtwin.kazscanservice.com/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "Q",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "ai-ml",
+        "deeptech"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-qaztwin.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://qtwin.kazscanservice.com/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "freyt",
+      "name": "Freyt",
+      "tagline": "Платформа для управления грузоперевозками и автопарком",
+      "description": "Платформа для управления грузоперевозками и автопарком Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "logistics",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://freyt.co/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "F",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "logistics-mobility",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-freyt.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://freyt.co/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "makon-ai",
+      "name": "Makon Ai",
+      "tagline": "AI-платформа для подготовки к SAT, ACT и AP",
+      "description": "AI-платформа для подготовки к SAT, ACT и AP Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai edtech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://www.makon.ai/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "M",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "ai-ml",
+        "edtech"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-makon-ai.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://www.makon.ai/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "aleem",
+      "name": "Aleem",
+      "tagline": "AI-платформа для персонализированного изучения языков",
+      "description": "AI-платформа для персонализированного изучения языков Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai edtech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://aleem.io/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "A",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "ai-ml",
+        "edtech"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-aleem.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://aleem.io/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "emma-aero",
+      "name": "Emma Aero",
+      "tagline": "AI-решения для управления аэропортовыми операциями",
+      "description": "AI-решения для управления аэропортовыми операциями Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai logistics",
+      "city": "",
+      "country": "",
+      "stage": "Seed",
+      "website": "https://emma.aero/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "E",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "ai-ml",
+        "logistics-mobility"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-emma-aero.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://emma.aero/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "algebras-ai",
+      "name": "Algebras AI",
+      "tagline": "AI-платформа для локализации и перевода",
+      "description": "AI-платформа для локализации и перевода Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://www.algebras.ai/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "A",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-algebras-ai.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://www.algebras.ai/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "aidmi",
+      "name": "AidMi",
+      "tagline": "AI-ассистент для врачей и сопровождения пациентов",
+      "description": "AI-ассистент для врачей и сопровождения пациентов Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai healthtech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "http://aidmi.ai/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "A",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "ai-ml",
+        "healthtech",
+        "medtech"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-aidmi.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "http://aidmi.ai/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "ucode",
+      "name": "Ucode",
+      "tagline": "AI-платформа для создания приложений без программирования",
+      "description": "AI-платформа для создания приложений без программирования Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai developer-tools",
+      "city": "",
+      "country": "",
+      "stage": "Seed",
+      "website": "https://ucode.co/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "U",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-ucode.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://ucode.co/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "rfxai",
+      "name": "RFxAI",
+      "tagline": "AI-платформа для автоматизации закупок и тендеров",
+      "description": "AI-платформа для автоматизации закупок и тендеров Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://www.rfxai.com/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "R",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-rfxai.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://www.rfxai.com/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "cyberlabs-interactive-range",
+      "name": "Cyberlabs (Interactive Range)",
+      "tagline": "Симуляционная и образовательная платформа по кибербезопасности",
+      "description": "Симуляционная и образовательная платформа по кибербезопасности Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "security",
+      "city": "",
+      "country": "",
+      "stage": "Seed",
+      "website": "https://cyberlabs.kz/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "C",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "cybersecurity",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-cyberlabs-interactive-range.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://cyberlabs.kz/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "openspot-steppeai",
+      "name": "OpenSpot (SteppeAI)",
+      "tagline": "Умная парковочная инфраструктура для автоматизации доступа, бронирования и контроля",
+      "description": "Умная парковочная инфраструктура для автоматизации доступа, бронирования и контроля Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "other",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://www.open-spot.ai/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "O",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "other-technology",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-openspot-steppeai.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://www.open-spot.ai/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "ember-ai",
+      "name": "Ember AI",
+      "tagline": "Единая AI-платформа для языковых технологий, доступности и автоматизации",
+      "description": "Единая AI-платформа для языковых технологий, доступности и автоматизации Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai edtech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://ember.mn/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "E",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "ai-ml",
+        "edtech"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-ember-ai.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://ember.mn/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "tilmoch",
+      "name": "Tilmoch",
+      "tagline": "AI-платформа перевода для тюркских и региональных языков",
+      "description": "AI-платформа перевода для тюркских и региональных языков Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://tilmoch.ai/ru/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "T",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-tilmoch.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://tilmoch.ai/ru/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "finflow",
+      "name": "Finflow",
+      "tagline": "AI-платформа финансового управления для бизнеса",
+      "description": "AI-платформа финансового управления для бизнеса Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai fintech",
+      "city": "",
+      "country": "",
+      "stage": "Seed",
+      "website": "https://finflow.kz/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "F",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "ai-ml",
+        "fintech"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-finflow.webp",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://finflow.kz/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "ask-alem-ai",
+      "name": "Ask Alem ai",
+      "tagline": "Платформа экономического управления AI-агентами",
+      "description": "Платформа экономического управления AI-агентами Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://askalem.com/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "A",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-ask-alem-ai.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://askalem.com/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "geomotive",
+      "name": "Geomotive",
+      "tagline": "Платформа для управления и размещения цифровой наружной рекламы",
+      "description": "Платформа для управления и размещения цифровой наружной рекламы Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "other",
+      "city": "",
+      "country": "",
+      "stage": "Seed",
+      "website": "https://geomotive.io/?lang=ru",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "G",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "other-technology",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-geomotive.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://geomotive.io/?lang=ru",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "fleetroot",
+      "name": "Fleetroot",
+      "tagline": "SaaS-платформа для управления автопарком и last-mile доставкой",
+      "description": "SaaS-платформа для управления автопарком и last-mile доставкой Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "logistics",
+      "city": "",
+      "country": "",
+      "stage": "Seed",
+      "website": "https://fleetroot.com/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "F",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "saas-b2b",
+        "logistics-mobility"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-fleetroot.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://fleetroot.com/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "company-885dca79",
+      "name": "ОТА",
+      "tagline": "Цифровая платформа для транспортных и mobility-сервисов",
+      "description": "Цифровая платформа для транспортных и mobility-сервисов Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "logistics traveltech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://ota.kz/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "О",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "logistics-mobility",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-ota.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://ota.kz/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "oq-ai",
+      "name": "OQ.AI",
+      "tagline": "AI-приложение для развития чтения и критического мышления",
+      "description": "AI-приложение для развития чтения и критического мышления Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai edtech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://play.google.com/store/apps/details?id=com.innlab.oq_mobile_app&hl=ru",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "O",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "ai-ml",
+        "edtech"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-oqai.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://play.google.com/store/apps/details?id=com.innlab.oq_mobile_app&hl=ru",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "artisan",
+      "name": "Artisan",
+      "tagline": "IoT-платы и образовательные наборы для обучения технологиям",
+      "description": "IoT-платы и образовательные наборы для обучения технологиям Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "deeptech edtech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://artisan.education/en",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "A",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "deeptech",
+        "edtech",
+        "robotics-hardware"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-artisan.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://artisan.education/en",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "soyleseiyk",
+      "name": "Soyleseiyk",
+      "tagline": "Цифровая платформа для развития речи и языковых навыков",
+      "description": "Цифровая платформа для развития речи и языковых навыков Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "edtech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://soyleseyik.kz/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "S",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "edtech",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-soyleseiyk.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://soyleseyik.kz/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "dronly",
+      "name": "Dronly",
+      "tagline": "Технологические и автоматизированные решения на базе дронов",
+      "description": "Технологические и автоматизированные решения на базе дронов Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "deeptech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://www.instagram.com/dronly.kz/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "D",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "deeptech",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-dronly.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://www.instagram.com/dronly.kz/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "aman",
+      "name": "AMAN",
+      "tagline": "Цифровая платформа для безопасности и персональной защиты",
+      "description": "Цифровая платформа для безопасности и персональной защиты Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "security",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://www.instagram.com/aman.kazakhstan/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "A",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "cybersecurity",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-aman.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://www.instagram.com/aman.kazakhstan/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "ascle",
+      "name": "Ascle",
+      "tagline": "AI-ассистент для врачей",
+      "description": "AI-ассистент для врачей Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai healthtech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://ascle.ai/ru",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "A",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "ai-ml",
+        "healthtech",
+        "medtech"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-ascle.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://ascle.ai/ru",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "moon-ai",
+      "name": "Moon AI",
+      "tagline": "No-code AI-агенты для продаж",
+      "description": "No-code AI-агенты для продаж Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai developer-tools",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://mooonai.com/en",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "M",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-moon-ai.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://mooonai.com/en",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "barion-ai",
+      "name": "Barion AI",
+      "tagline": "AI-системы для критически важных решений и автономных операций",
+      "description": "AI-системы для критически важных решений и автономных операций Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://barion.ai/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "B",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-barion-ai.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://barion.ai/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "ar-sana",
+      "name": "AR Sana",
+      "tagline": "AI-платформа для развития речи у детей",
+      "description": "AI-платформа для развития речи у детей Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai healthtech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://www.instagram.com/arsana.app/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "A",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "ai-ml",
+        "healthtech",
+        "medtech"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-arsana.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://www.instagram.com/arsana.app/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "voice-ai",
+      "name": "Voice AI",
+      "tagline": "Голосовой AI-ассистент для бизнес-коммуникаций",
+      "description": "Голосовой AI-ассистент для бизнес-коммуникаций Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://voiceclinic.ai/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "V",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-voice-ai.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://voiceclinic.ai/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "pulsar-ai",
+      "name": "Pulsar AI",
+      "tagline": "AI-система для автоматической диагностики автомобилей",
+      "description": "AI-система для автоматической диагностики автомобилей Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai logistics",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://www.instagram.com/pulsar.ai.thecar/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "P",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "ai-ml",
+        "logistics-mobility"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-pulsar-ai.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://www.instagram.com/pulsar.ai.thecar/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "youtrade",
+      "name": "Youtrade",
+      "tagline": "Prop-trading платформа для оценки и финансирования трейдеров",
+      "description": "Prop-trading платформа для оценки и финансирования трейдеров Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "fintech",
+      "city": "",
+      "country": "",
+      "stage": "Seed",
+      "website": "https://youtrade.kz/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "Y",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "fintech",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-youtrade.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://youtrade.kz/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "sezim",
+      "name": "Sezim",
+      "tagline": "Онлайн-платформа психологической помощи",
+      "description": "Онлайн-платформа психологической помощи Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "healthtech",
+      "city": "",
+      "country": "",
+      "stage": "Seed",
+      "website": "https://sez.im/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "S",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "healthtech",
+        "medtech"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-sezim.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://sez.im/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "company-2a5a84a4",
+      "name": "Психолог в Люди",
+      "tagline": "Платформа для поиска и работы с профессиональными психологами",
+      "description": "Платформа для поиска и работы с профессиональными психологами Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "healthtech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://psyandpeople.kz/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "П",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "healthtech",
+        "medtech"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-psyandpeople.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://psyandpeople.kz/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "welcomevideo-ai",
+      "name": "Welcomevideo.ai",
+      "tagline": "AI-платформа для коммуникации с гостями в отелях",
+      "description": "AI-платформа для коммуникации с гостями в отелях Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai traveltech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://welcomevideo.ai/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "W",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-welcomevideo-ai.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://welcomevideo.ai/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "qaztracker",
+      "name": "QazTracker",
+      "tagline": "AI-платформа для мониторинга животноводства",
+      "description": "AI-платформа для мониторинга животноводства Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai other",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://www.qaztracker.com/ru",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "Q",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-qaztracker.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://www.qaztracker.com/ru",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "topmd-health",
+      "name": "TopMD Health",
+      "tagline": "Платформа для получения экспертного второго медицинского мнения",
+      "description": "Платформа для получения экспертного второго медицинского мнения Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "healthtech",
+      "city": "",
+      "country": "",
+      "stage": "Seed",
+      "website": "https://www.topmdhealth.com/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "T",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": [
+        "healthtech",
+        "medtech"
+      ],
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-topmd-health.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://www.topmdhealth.com/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "gamo",
+      "name": "Gamo",
+      "tagline": "Геймифицированная платформа цифрового взаимодействия",
+      "description": "Геймифицированная платформа цифрового взаимодействия Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "traveltech",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://gamo.ge/en",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "G",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "other-technology",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-gamo.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://gamo.ge/en",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "innmedia",
+      "name": "InnMedia",
+      "tagline": "Корпоративная AI-платформа для управления контентом",
+      "description": "Корпоративная AI-платформа для управления контентом Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai other",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://www.innmediaservices.com/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "I",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-innmedia.png",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://www.innmediaservices.com/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "smarthub",
+      "name": "Smarthub",
+      "tagline": "Платформа умных технологий для подключенной инфраструктуры",
+      "description": "Платформа умных технологий для подключенной инфраструктуры Astana Hub Ventures lists this company in its public technology portfolio.",
+      "industry": "ai",
+      "city": "",
+      "country": "",
+      "stage": "Pre-seed",
+      "website": "https://smarthub.tj/",
+      "source": "https://astanahub.vc/portfolio.html",
+      "source_label": "Astana Hub Ventures · публичный портфель",
+      "mark": "S",
+      "color": "#e8eee8",
+      "country_of_origin": "",
+      "country_of_registration": "",
+      "team_location": "",
+      "activity_geography": "",
+      "record_type": "startup",
+      "category_slugs": "ai-ml",
+      "geography_tags": [
+        "astana-hub-ventures-portfolio"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "https://astanahub.vc/images/portfolio-smarthub.svg",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://smarthub.tj/",
+      "secondary_source": "https://astanahub.vc/portfolio.html",
+      "discovery_source": "https://astanahub.vc/portfolio.html",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "soup",
+      "name": "Soup",
+      "tagline": "Открытый CLI для fine-tuning и post-training языковых моделей на локальном оборудовании.",
+      "description": "Soup — открытый инструмент для post-training и дообучения языковых моделей с layer streaming, чтобы работать с моделью даже при ограниченной видеопамяти. Официальный сайт указывает, что продукт выпускает MePlay, Inc., а команда работает в Астане.",
+      "industry": "AI & Machine Learning",
+      "city": "Астана",
+      "country": "Казахстан",
+      "stage": "",
+      "website": "https://trysoup.dev/",
+      "source": "https://raem.kz/startup/soup/",
+      "source_label": "RAEM Startup Radar · официальная страница продукта",
+      "mark": "S",
+      "color": "#e8eee8",
+      "country_of_origin": "Казахстанские корни — по редакционному профилю RAEM",
+      "country_of_registration": "США (Delaware, MePlay, Inc. — по официальной странице)",
+      "team_location": "Астана, Казахстан",
+      "activity_geography": "Международная",
+      "record_type": "startup",
+      "category_slugs": [
+        "ai-ml",
+        "generative-ai",
+        "deeptech",
+        "saas-b2b"
+      ],
+      "geography_tags": [
+        "kazakhstan-founded-international",
+        "kazakhstan-based-team"
+      ],
+      "ai_relevance": "AI Core",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "",
+      "official_socials": [
+        "https://github.com/MakazhanAlpamys/Soup"
+      ],
+      "public_contact": "",
+      "primary_source": "https://trysoup.dev/about",
+      "secondary_source": "https://digitalbusiness.kz/2026-11-10/18-letniy-kazahstanets-privlek-2-mln-ot-kompanii-bitfury-i-pervogo-investora-zoom/",
+      "discovery_source": "https://raem.kz/startup/soup/",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "citix",
+      "name": "CITIX",
+      "tagline": "Технологическая компания на стыке Smart City и AdTech.",
+      "description": "CITIX разрабатывает цифровые городские решения, включая собственную платформу EYWA и умные городские экраны. Публичное описание организации указывает, что компания создана в Казахстане и работает в сегментах Smart City и AdTech.",
+      "industry": "Smart City & AdTech",
+      "city": "Алматы",
+      "country": "Казахстан",
+      "stage": "",
+      "website": "https://citix.me/",
+      "source": "https://aaca.com.kz/members/citix",
+      "source_label": "Центрально-Азиатская рекламная ассоциация · профиль компании",
+      "mark": "C",
+      "color": "#e8eee8",
+      "country_of_origin": "Казахстан",
+      "country_of_registration": "",
+      "team_location": "Алматы, Казахстан",
+      "activity_geography": "Казахстан и международные рынки",
+      "record_type": "technology-company",
+      "category_slugs": [
+        "martech",
+        "govtech",
+        "saas-b2b"
+      ],
+      "geography_tags": [
+        "founded-in-kazakhstan",
+        "kazakhstan-based-team"
+      ],
+      "ai_relevance": "Non-AI Technology",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "",
+      "official_socials": [
+        "https://www.instagram.com/citix_me"
+      ],
+      "public_contact": "",
+      "primary_source": "https://citix.me/",
+      "secondary_source": "https://aaca.com.kz/members/citix",
+      "discovery_source": "https://aiqazaqstan.com/ru/startups",
+      "checked_at": "2026-11-20"
+    },
+    {
+      "id": "biometric-kz",
+      "name": "Biometric.kz",
+      "tagline": "Биометрическая идентификация и проверка цифровой личности для бизнеса.",
+      "description": "Biometric разрабатывает биометрические решения для идентификации, проверки документов и контроля доступа. Сведения о компании и домене подтверждаются публичным реестром поставщиков Казахстана; отраслевой обзор AIFC описывает её применение компьютерного зрения и машинного обучения.",
+      "industry": "FinTech & Cybersecurity",
+      "city": "Алматы",
+      "country": "Казахстан",
+      "stage": "",
+      "website": "https://biometric.kz/",
+      "source": "https://tech.aifc.kz/files/pages/2025/documents/9/aa-54-20-88_-k-0_d8-b5e_ab0-b0-2_-070eab0-0.pdf",
+      "source_label": "AIFC FinTech Industry Landscape",
+      "mark": "B",
+      "color": "#e8eee8",
+      "country_of_origin": "Казахстан",
+      "country_of_registration": "Казахстан",
+      "team_location": "Казахстан",
+      "activity_geography": "Казахстан",
+      "record_type": "technology-company",
+      "category_slugs": [
+        "ai-ml",
+        "fintech",
+        "cybersecurity"
+      ],
+      "geography_tags": [
+        "founded-in-kazakhstan",
+        "kazakhstan-based-team"
+      ],
+      "ai_relevance": "AI Enabled",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "logo_url": "",
+      "official_socials": [],
+      "public_contact": "",
+      "primary_source": "https://biometric.kz/",
+      "secondary_source": "https://tech.aifc.kz/files/pages/2025/documents/9/aa-54-20-88_-k-0_d8-b5e_ab0-b0-2_-070eab0-0.pdf",
+      "discovery_source": "https://aiqazaqstan.com/ru/startups",
+      "checked_at": "2026-11-20"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "eknot",
+      "name": "e-knot",
+      "source_url": "https://raem.kz/startup/eknot/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/eknot/"
+      ]
+    },
+    {
+      "id": "deepinfra",
+      "name": "deepinfra",
+      "source_url": "https://raem.kz/startup/deepinfra/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "пало-альто",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/deepinfra/"
+      ]
+    },
+    {
+      "id": "naimikz",
+      "name": "naimi.kz",
+      "source_url": "https://raem.kz/startup/naimi-kz/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "e-commerce-and-marketplaces",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/naimi-kz/"
+      ]
+    },
+    {
+      "id": "sowita",
+      "name": "sowita",
+      "source_url": "https://raem.kz/startup/sowita/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/sowita/"
+      ]
+    },
+    {
+      "id": "isaiinstituteofsmartsystemsandartificialintelligence",
+      "name": "ISAI (Institute of Smart Systems and Artificial Intelligence)",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "aimrisitspartnerltd",
+      "name": "aimris (чк «its partner ltd.»)",
+      "source_url": "https://raem.kz/startup/aimris/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/aimris/"
+      ]
+    },
+    {
+      "id": "shai",
+      "name": "shai",
+      "source_url": "https://raem.kz/startup/shai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/shai/"
+      ]
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "uvuuvushuttle",
+      "name": "uvu (uvu shuttle)",
+      "source_url": "https://raem.kz/startup/uvu/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "logistics-and-autotech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/uvu/"
+      ]
+    },
+    {
+      "id": "qalaai",
+      "name": "qala ai",
+      "source_url": "https://raem.kz/startup/qala-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/qala-ai/"
+      ]
+    },
+    {
+      "id": "nozomio",
+      "name": "nozomio",
+      "source_url": "https://raem.kz/startup/nozomio/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "сан-франциско",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/nozomio/"
+      ]
+    },
+    {
+      "id": "smartsatu",
+      "name": "smart satu",
+      "source_url": "https://raem.kz/startup/smart-satu/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "e-commerce-and-marketplaces",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/smart-satu/",
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "autocheck",
+      "name": "autocheck",
+      "source_url": "https://raem.kz/startup/autocheck/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/autocheck/"
+      ]
+    },
+    {
+      "id": "arbuzkz",
+      "name": "arbuz.kz",
+      "source_url": "https://raem.kz/startup/arbuz-kz/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "e-commerce-and-marketplaces",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/arbuz-kz/"
+      ]
+    },
+    {
+      "id": "almatydatacenteradc",
+      "name": "Almaty Datacenter (ADC)",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "pandevmetrics",
+      "name": "pandev metrics",
+      "source_url": "https://raem.kz/startup/pandev-metrics/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/pandev-metrics/"
+      ]
+    },
+    {
+      "id": "jobescape",
+      "name": "jobescape",
+      "source_url": "https://raem.kz/startup/jobescape/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "edtech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/jobescape/"
+      ]
+    },
+    {
+      "id": "herostudy",
+      "name": "hero study",
+      "source_url": "https://raem.kz/startup/hero-study/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "edtech",
+      "city_hint": "сингапур",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/hero-study/"
+      ]
+    },
+    {
+      "id": "rixtai",
+      "name": "rixt.ai",
+      "source_url": "https://raem.kz/startup/rixt-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "павлодар",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/rixt-ai/"
+      ]
+    },
+    {
+      "id": "skillpass",
+      "name": "skillpass",
+      "source_url": "https://raem.kz/startup/skillpass/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/skillpass/"
+      ]
+    },
+    {
+      "id": "doqkz",
+      "name": "doq.kz",
+      "source_url": "https://raem.kz/startup/doq-kz/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/doq-kz/"
+      ]
+    },
+    {
+      "id": "wonk",
+      "name": "wonk",
+      "source_url": "https://raem.kz/startup/wonk/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "edtech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/wonk/"
+      ]
+    },
+    {
+      "id": "bilimland",
+      "name": "bilimland",
+      "source_url": "https://raem.kz/startup/bilimland/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "edtech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/bilimland/",
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "arctera",
+      "name": "arctera",
+      "source_url": "https://raem.kz/startup/arctera/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/arctera/"
+      ]
+    },
+    {
+      "id": "aisolutionskz",
+      "name": "AI Solutions KZ",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "wispy",
+      "name": "wispy",
+      "source_url": "https://raem.kz/startup/wispy/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "edtech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/wispy/"
+      ]
+    },
+    {
+      "id": "s1lkpay",
+      "name": "s1lkpay",
+      "source_url": "https://raem.kz/startup/s1lkpay/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "fintech",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/s1lkpay/"
+      ]
+    },
+    {
+      "id": "herosjourney",
+      "name": "hero’s journey",
+      "source_url": "https://raem.kz/startup/heros-journey-2/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/heros-journey-2/"
+      ]
+    },
+    {
+      "id": "aiutante",
+      "name": "aiutante",
+      "source_url": "https://raem.kz/startup/aiutante/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "петропавловск",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/aiutante/"
+      ]
+    },
+    {
+      "id": "tayyab",
+      "name": "tayyab",
+      "source_url": "https://raem.kz/startup/tayyab/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "fintech",
+      "city_hint": "на проверке",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/tayyab/"
+      ]
+    },
+    {
+      "id": "cyberpackai",
+      "name": "cyberpack.ai",
+      "source_url": "https://raem.kz/startup/cyberpack-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "edtech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/cyberpack-ai/"
+      ]
+    },
+    {
+      "id": "taisan",
+      "name": "taisan",
+      "source_url": "https://raem.kz/startup/taisan/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "hardware-and-robotics",
+      "city_hint": "кембридж",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/taisan/"
+      ]
+    },
+    {
+      "id": "jusandigital",
+      "name": "Jusan Digital",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "arystungameassetholdings",
+      "name": "arystun (тоо «game asset holdings»)",
+      "source_url": "https://raem.kz/startup/arystun/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "vr-and-gaming",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/arystun/"
+      ]
+    },
+    {
+      "id": "ncspeech",
+      "name": "ncspeech",
+      "source_url": "https://raem.kz/startup/ncspeech/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/ncspeech/"
+      ]
+    },
+    {
+      "id": "pscloudservices",
+      "name": "PS Cloud Services",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "edoox",
+      "name": "edoox",
+      "source_url": "https://raem.kz/startup/edoox/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/edoox/"
+      ]
+    },
+    {
+      "id": "hrmessenger",
+      "name": "hr messenger",
+      "source_url": "https://raem.kz/startup/hr-messenger/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/hr-messenger/"
+      ]
+    },
+    {
+      "id": "trustexamai",
+      "name": "trustexam ai",
+      "source_url": "https://raem.kz/startup/trustexam-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "edtech",
+      "city_hint": "пало-альто",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/trustexam-ai/"
+      ]
+    },
+    {
+      "id": "klok",
+      "name": "klok",
+      "source_url": "https://raem.kz/startup/klok/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "e-commerce-and-marketplaces",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/klok/"
+      ]
+    },
+    {
+      "id": "rekogn",
+      "name": "Rekogn",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "artsme",
+      "name": "arts.me",
+      "source_url": "https://raem.kz/startup/arts-me/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "e-commerce-and-marketplaces",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/arts-me/"
+      ]
+    },
+    {
+      "id": "factorybuilderai",
+      "name": "factory builder ai",
+      "source_url": "https://raem.kz/startup/factory-builder-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/factory-builder-ai/"
+      ]
+    },
+    {
+      "id": "remofirst",
+      "name": "remofirst",
+      "source_url": "https://raem.kz/startup/remofirst/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/remofirst/"
+      ]
+    },
+    {
+      "id": "flipkz",
+      "name": "flip.kz",
+      "source_url": "https://raem.kz/startup/flip-kz/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "e-commerce-and-marketplaces",
+      "city_hint": "караганда",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/flip-kz/"
+      ]
+    },
+    {
+      "id": "oddmeter",
+      "name": "odd meter",
+      "source_url": "https://raem.kz/startup/odd-meter/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "vr-and-gaming",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/odd-meter/"
+      ]
+    },
+    {
+      "id": "neuroglove",
+      "name": "neuroglove",
+      "source_url": "https://raem.kz/startup/neuroglove/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "шымкент",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/neuroglove/"
+      ]
+    },
+    {
+      "id": "sinoai",
+      "name": "sino ai",
+      "source_url": "https://raem.kz/startup/sino-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "ташкент",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/sino-ai/"
+      ]
+    },
+    {
+      "id": "jetjetsharing",
+      "name": "jet (jet sharing)",
+      "source_url": "https://raem.kz/startup/jet-sharing/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "smart-city-and-iot",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/jet-sharing/"
+      ]
+    },
+    {
+      "id": "company51d2b776",
+      "name": "Казахтелеком",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "epiqai",
+      "name": "epiq ai",
+      "source_url": "https://raem.kz/startup/epiq-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/epiq-ai/"
+      ]
+    },
+    {
+      "id": "phorm",
+      "name": "phorm",
+      "source_url": "https://raem.kz/startup/phorm/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/phorm/"
+      ]
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "metaclinickz",
+      "name": "metaclinic.kz",
+      "source_url": "https://raem.kz/startup/metaclinic-kz/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/metaclinic-kz/"
+      ]
+    },
+    {
+      "id": "thefashionpeoplegarderob",
+      "name": "the fashion people / garderob",
+      "source_url": "https://raem.kz/startup/garderob/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "e-commerce-and-marketplaces",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/garderob/"
+      ]
+    },
+    {
+      "id": "flowsellme",
+      "name": "flowsell.me",
+      "source_url": "https://raem.kz/startup/flowsell/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/flowsell/"
+      ]
+    },
+    {
+      "id": "olympstudio",
+      "name": "olymp studio",
+      "source_url": "https://raem.kz/startup/olymp-studio/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "vr-and-gaming",
+      "city_hint": "костанай",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/olymp-studio/"
+      ]
+    },
+    {
+      "id": "set24",
+      "name": "set24",
+      "source_url": "https://raem.kz/startup/set24/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "e-commerce-and-marketplaces",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/set24/"
+      ]
+    },
+    {
+      "id": "ams",
+      "name": "ams",
+      "source_url": "https://raem.kz/startup/ams/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "актау",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/ams/"
+      ]
+    },
+    {
+      "id": "tendoo",
+      "name": "tendoo",
+      "source_url": "https://raem.kz/startup/tendoo/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "тараз",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/tendoo/"
+      ]
+    },
+    {
+      "id": "intellicrafter",
+      "name": "Intellicrafter",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "aidan",
+      "name": "aidan",
+      "source_url": "https://raem.kz/startup/aidan/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/aidan/"
+      ]
+    },
+    {
+      "id": "bugbase",
+      "name": "bugbase",
+      "source_url": "https://raem.kz/startup/bugbase/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/bugbase/"
+      ]
+    },
+    {
+      "id": "kaspikzailab",
+      "name": "Kaspi.kz AI Lab",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "beelinekazakhstan",
+      "name": "Beeline Kazakhstan",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "clockster",
+      "name": "clockster",
+      "source_url": "https://raem.kz/startup/clockster/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/clockster/",
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "smartvision",
+      "name": "SmartVision",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "itekaiteka",
+      "name": "i-teka (тоо «единая справочная служба i-teka»)",
+      "source_url": "https://raem.kz/startup/i-teka/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/i-teka/"
+      ]
+    },
+    {
+      "id": "aethersystemco",
+      "name": "aether system & co.",
+      "source_url": "https://raem.kz/startup/aether-system/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "logistics-and-autotech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/aether-system/"
+      ]
+    },
+    {
+      "id": "hidoctor",
+      "name": "hi doctor",
+      "source_url": "https://raem.kz/startup/hi-doctor/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/hi-doctor/"
+      ]
+    },
+    {
+      "id": "datapulse",
+      "name": "data pulse",
+      "source_url": "https://raem.kz/startup/data-pulse/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/data-pulse/"
+      ]
+    },
+    {
+      "id": "jumbaq",
+      "name": "jumbaq",
+      "source_url": "https://raem.kz/startup/jumbaq/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "г. астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/jumbaq/"
+      ]
+    },
+    {
+      "id": "idosgames",
+      "name": "idos games",
+      "source_url": "https://raem.kz/startup/idos-games/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "vr-and-gaming",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/idos-games/"
+      ]
+    },
+    {
+      "id": "sonotiv",
+      "name": "sonotiv",
+      "source_url": "https://raem.kz/startup/sonotiv/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/sonotiv/"
+      ]
+    },
+    {
+      "id": "naceai",
+      "name": "nace.ai",
+      "source_url": "https://raem.kz/startup/nace-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "пало-альто",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/nace-ai/"
+      ]
+    },
+    {
+      "id": "leoparts",
+      "name": "leo parts",
+      "source_url": "https://raem.kz/startup/leo-parts/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "logistics-and-autotech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/leo-parts/"
+      ]
+    },
+    {
+      "id": "partnerspay",
+      "name": "partners pay",
+      "source_url": "https://raem.kz/startup/partners-pay/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "fintech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/partners-pay/"
+      ]
+    },
+    {
+      "id": "tomo24",
+      "name": "tomo24",
+      "source_url": "https://raem.kz/startup/tomo24/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/tomo24/"
+      ]
+    },
+    {
+      "id": "dodobrandsdrinkitdodois",
+      "name": "dodo brands (додо пицца / drinkit / dodo is)",
+      "source_url": "https://raem.kz/startup/dodo-brands/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "e-commerce-and-marketplaces",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/dodo-brands/"
+      ]
+    },
+    {
+      "id": "parqour",
+      "name": "parqour",
+      "source_url": "https://raem.kz/startup/parqour/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "smart-city-and-iot",
+      "city_hint": "сша",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/parqour/",
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "freedomfinanceai",
+      "name": "Freedom Finance AI",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "nex",
+      "name": "nex",
+      "source_url": "https://raem.kz/startup/nex/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/nex/"
+      ]
+    },
+    {
+      "id": "cotypeai",
+      "name": "Cotype AI",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "auasense",
+      "name": "auasense",
+      "source_url": "https://raem.kz/startup/auasense/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "smart-city-and-iot",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/auasense/"
+      ]
+    },
+    {
+      "id": "ctogram",
+      "name": "ctogram",
+      "source_url": "https://raem.kz/startup/ctogram/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "logistics-and-autotech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/ctogram/"
+      ]
+    },
+    {
+      "id": "heilyai",
+      "name": "heily ai",
+      "source_url": "https://raem.kz/startup/heily-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/heily-ai/"
+      ]
+    },
+    {
+      "id": "kenesai",
+      "name": "kenesai",
+      "source_url": "https://raem.kz/startup/kenesai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/kenesai/"
+      ]
+    },
+    {
+      "id": "aldenteai",
+      "name": "aldente ai",
+      "source_url": "https://raem.kz/startup/aldente-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "сан-матео",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/aldente-ai/"
+      ]
+    },
+    {
+      "id": "edulabkz",
+      "name": "EduLab KZ",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "jusananalytics",
+      "name": "Jusan Analytics",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "alemaiinternationalaicenter",
+      "name": "Alem.AI (International AI Center)",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "med365",
+      "name": "med365",
+      "source_url": "https://raem.kz/startup/med365/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/med365/"
+      ]
+    },
+    {
+      "id": "evospace",
+      "name": "evospace",
+      "source_url": "https://raem.kz/startup/evospace/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/evospace/"
+      ]
+    },
+    {
+      "id": "qazdatacenter",
+      "name": "QazDatacenter",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "defectairette",
+      "name": "defect ai (rette)",
+      "source_url": "https://raem.kz/startup/defect-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/defect-ai/"
+      ]
+    },
+    {
+      "id": "onorta",
+      "name": "onorta",
+      "source_url": "https://raem.kz/startup/onorta/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/onorta/"
+      ]
+    },
+    {
+      "id": "mycarkzmycar",
+      "name": "mycar.kz (тоо «mycar»)",
+      "source_url": "https://raem.kz/startup/mycar-kz/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "logistics-and-autotech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/mycar-kz/"
+      ]
+    },
+    {
+      "id": "trustme",
+      "name": "trustme",
+      "source_url": "https://raem.kz/startup/trustme/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/trustme/"
+      ]
+    },
+    {
+      "id": "surettersoftware",
+      "name": "suretter software",
+      "source_url": "https://raem.kz/startup/suretter-software/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "г. алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/suretter-software/"
+      ]
+    },
+    {
+      "id": "spacelab",
+      "name": "spacelab",
+      "source_url": "https://raem.kz/startup/spacelab/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/spacelab/"
+      ]
+    },
+    {
+      "id": "1fit",
+      "name": "1fit",
+      "source_url": "https://raem.kz/startup/1fit/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/1fit/"
+      ]
+    },
+    {
+      "id": "jude",
+      "name": "jude",
+      "source_url": "https://raem.kz/startup/jude/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/jude/"
+      ]
+    },
+    {
+      "id": "introdex",
+      "name": "introdex",
+      "source_url": "https://raem.kz/startup/introdex/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "сингапур",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/introdex/"
+      ]
+    },
+    {
+      "id": "indrive",
+      "name": "indrive",
+      "source_url": "https://raem.kz/startup/indrive/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "logistics-and-autotech",
+      "city_hint": "маунтин-вью",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/indrive/"
+      ]
+    },
+    {
+      "id": "vboxsocial",
+      "name": "vbox social",
+      "source_url": "https://raem.kz/startup/vbox-social/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "e-commerce-and-marketplaces",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/vbox-social/"
+      ]
+    },
+    {
+      "id": "kenisai",
+      "name": "kenisai",
+      "source_url": "https://raem.kz/startup/kenisai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/kenisai/"
+      ]
+    },
+    {
+      "id": "prosperpayprospergroup",
+      "name": "prosper pay / prosper group",
+      "source_url": "https://raem.kz/startup/prosper-pay/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "fintech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/prosper-pay/"
+      ]
+    },
+    {
+      "id": "mineralintelligence",
+      "name": "mineral intelligence",
+      "source_url": "https://raem.kz/startup/mineral-intelligence/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/mineral-intelligence/"
+      ]
+    },
+    {
+      "id": "stikerai",
+      "name": "stiker.ai",
+      "source_url": "https://raem.kz/startup/stiker-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/stiker-ai/"
+      ]
+    },
+    {
+      "id": "igpstech",
+      "name": "igps tech",
+      "source_url": "https://raem.kz/startup/igps-tech/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "smart-city-and-iot",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/igps-tech/"
+      ]
+    },
+    {
+      "id": "aidentis",
+      "name": "aidentis",
+      "source_url": "https://raem.kz/startup/aidentis/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/aidentis/"
+      ]
+    },
+    {
+      "id": "myupgrade",
+      "name": "myupgrade",
+      "source_url": "https://raem.kz/startup/myupgrade/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/myupgrade/"
+      ]
+    },
+    {
+      "id": "clicki",
+      "name": "clicki",
+      "source_url": "https://raem.kz/startup/clicki/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/clicki/"
+      ]
+    },
+    {
+      "id": "squareskz",
+      "name": "squares.kz",
+      "source_url": "https://raem.kz/startup/squares-kz/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "e-commerce-and-marketplaces",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/squares-kz/"
+      ]
+    },
+    {
+      "id": "m3triq",
+      "name": "m3triq",
+      "source_url": "https://raem.kz/startup/m3triq/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/m3triq/"
+      ]
+    },
+    {
+      "id": "tevvoicetevtechnologies",
+      "name": "tevvoice (tev technologies)",
+      "source_url": "https://raem.kz/startup/tevvoice/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "ереван",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/tevvoice/"
+      ]
+    },
+    {
+      "id": "wooppay",
+      "name": "wooppay",
+      "source_url": "https://raem.kz/startup/wooppay/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "fintech",
+      "city_hint": "караганда",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/wooppay/",
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "datavera",
+      "name": "datavera",
+      "source_url": "https://raem.kz/startup/datavera/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/datavera/"
+      ]
+    },
+    {
+      "id": "cerebrassystems",
+      "name": "Cerebras Systems",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "microsoftazurekz",
+      "name": "Microsoft Azure (KZ)",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "typipay",
+      "name": "typipay",
+      "source_url": "https://raem.kz/startup/typipay/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "edtech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/typipay/"
+      ]
+    },
+    {
+      "id": "rekreateairecreateai",
+      "name": "rekreate ai (ранее re:create ai)",
+      "source_url": "https://raem.kz/startup/recreate-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/recreate-ai/"
+      ]
+    },
+    {
+      "id": "pulsaraipulsarai",
+      "name": "pulsar ai (pulsar.ai)",
+      "source_url": "https://raem.kz/startup/pulsar-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "logistics-and-autotech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/pulsar-ai/"
+      ]
+    },
+    {
+      "id": "ustazai",
+      "name": "ustaz ai",
+      "source_url": "https://raem.kz/startup/ustaz-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "edtech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/ustaz-ai/"
+      ]
+    },
+    {
+      "id": "egistic",
+      "name": "egistic",
+      "source_url": "https://raem.kz/startup/egistic/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/egistic/"
+      ]
+    },
+    {
+      "id": "sensei",
+      "name": "sensei",
+      "source_url": "https://raem.kz/startup/sensei/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/sensei/"
+      ]
+    },
+    {
+      "id": "birgekz",
+      "name": "Birge.kz",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "kazllm",
+      "name": "KazLLM",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "apartx",
+      "name": "apartx",
+      "source_url": "https://raem.kz/startup/apartx/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "smart-city-and-iot",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/apartx/",
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "baiterekventurefund",
+      "name": "Baiterek Venture Fund",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "atlanti",
+      "name": "atlanti",
+      "source_url": "https://raem.kz/startup/atlanti/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/atlanti/"
+      ]
+    },
+    {
+      "id": "dreamlight",
+      "name": "dreamlight",
+      "source_url": "https://raem.kz/startup/dreamlight/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "vr-and-gaming",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/dreamlight/"
+      ]
+    },
+    {
+      "id": "smartaqmola",
+      "name": "Smart Aqmola",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "aifcfintechhub",
+      "name": "AIFC Fintech Hub",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "rekassacomrun",
+      "name": "re:kassa (тоо «comrun»)",
+      "source_url": "https://raem.kz/startup/rekassa/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/rekassa/"
+      ]
+    },
+    {
+      "id": "brainpatch",
+      "name": "brainpatch",
+      "source_url": "https://raem.kz/startup/brainpatch/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "кембридж",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/brainpatch/"
+      ]
+    },
+    {
+      "id": "kolesagroup",
+      "name": "kolesa group",
+      "source_url": "https://raem.kz/startup/kolesa-group/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "e-commerce-and-marketplaces",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/kolesa-group/"
+      ]
+    },
+    {
+      "id": "googlecloudkazakhstan",
+      "name": "Google Cloud Kazakhstan",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "qdatakeplervision",
+      "name": "qdata (kepler vision)",
+      "source_url": "https://raem.kz/startup/qdata/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/qdata/"
+      ]
+    },
+    {
+      "id": "crdrive",
+      "name": "cr drive",
+      "source_url": "https://raem.kz/startup/cr-drive/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/cr-drive/"
+      ]
+    },
+    {
+      "id": "okialeem",
+      "name": "oki (ранее aleem)",
+      "source_url": "https://raem.kz/startup/aleem/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "edtech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/aleem/"
+      ]
+    },
+    {
+      "id": "aparuaparukz",
+      "name": "aparu (апару / aparu.kz)",
+      "source_url": "https://raem.kz/startup/aparu/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "smart-city-and-iot",
+      "city_hint": "усть-каменогорск",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/aparu/"
+      ]
+    },
+    {
+      "id": "tsarka",
+      "name": "TSARKA (Центр анализа и расследования кибератак)",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "nedrakz",
+      "name": "nedra.kz",
+      "source_url": "https://raem.kz/startup/nedra-kz/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "e-commerce-and-marketplaces",
+      "city_hint": "г. астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/nedra-kz/"
+      ]
+    },
+    {
+      "id": "kcell",
+      "name": "Kcell",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "porte",
+      "name": "porte",
+      "source_url": "https://raem.kz/startup/porte/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/porte/"
+      ]
+    },
+    {
+      "id": "qazcloud",
+      "name": "QazCloud (МЦРИАП)",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "aistartify",
+      "name": "ai startify",
+      "source_url": "https://raem.kz/startup/ai-startify/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "на проверке",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/ai-startify/"
+      ]
+    },
+    {
+      "id": "companya6ad1496",
+      "name": "атыраутехинвест",
+      "source_url": "https://raem.kz/startup/atyrautehinvest/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "атырау",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/atyrautehinvest/"
+      ]
+    },
+    {
+      "id": "call2actionai",
+      "name": "call2action.ai",
+      "source_url": "https://raem.kz/startup/call2action-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/call2action-ai/"
+      ]
+    },
+    {
+      "id": "qalamai",
+      "name": "qalam ai",
+      "source_url": "https://raem.kz/startup/qalam-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "шымкент",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/qalam-ai/"
+      ]
+    },
+    {
+      "id": "voiceclinicaivoiceclinicai",
+      "name": "voiceclinic.ai (тоо «voiceclinic ai»)",
+      "source_url": "https://raem.kz/startup/voiceclinic-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/voiceclinic-ai/"
+      ]
+    },
+    {
+      "id": "migrahelp",
+      "name": "migrahelp!",
+      "source_url": "https://raem.kz/startup/migrahelp/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/migrahelp/"
+      ]
+    },
+    {
+      "id": "bottech",
+      "name": "BotTech",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "silkroadinnovationhub",
+      "name": "Silkroad Innovation Hub",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "salesbox",
+      "name": "salesbox",
+      "source_url": "https://raem.kz/startup/salesbox/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/salesbox/"
+      ]
+    },
+    {
+      "id": "qalanqalankz",
+      "name": "qalan (qalan.kz)",
+      "source_url": "https://raem.kz/startup/qalan-kz/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "edtech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/qalan-kz/"
+      ]
+    },
+    {
+      "id": "easyspeak",
+      "name": "easyspeak",
+      "source_url": "https://raem.kz/startup/easyspeak/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/easyspeak/"
+      ]
+    },
+    {
+      "id": "kuicktechavoloan",
+      "name": "kuicktech / avoloan",
+      "source_url": "https://raem.kz/startup/avoloan/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "fintech",
+      "city_hint": "павлодар",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/avoloan/"
+      ]
+    },
+    {
+      "id": "chocochocolife",
+      "name": "choco (chocolife)",
+      "source_url": "https://raem.kz/startup/choco-chocolife/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "e-commerce-and-marketplaces",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/choco-chocolife/"
+      ]
+    },
+    {
+      "id": "halykailab",
+      "name": "Halyk AI Lab",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "tastamat",
+      "name": "tastamat",
+      "source_url": "https://raem.kz/startup/tastamat/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "logistics-and-autotech",
+      "city_hint": "на проверке",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/tastamat/"
+      ]
+    },
+    {
+      "id": "grantfieldkz",
+      "name": "grantfield.kz",
+      "source_url": "https://raem.kz/startup/grantfield-kz/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "edtech",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/grantfield-kz/"
+      ]
+    },
+    {
+      "id": "aimhightechnology",
+      "name": "aim high technology",
+      "source_url": "https://raem.kz/startup/aim-high-technology/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/aim-high-technology/"
+      ]
+    },
+    {
+      "id": "investbanqpaladigm",
+      "name": "investbanq / paladigm",
+      "source_url": "https://raem.kz/startup/investbanq-paladigm/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "fintech",
+      "city_hint": "сингапур",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/investbanq-paladigm/"
+      ]
+    },
+    {
+      "id": "robio",
+      "name": "robio",
+      "source_url": "https://raem.kz/startup/robio/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/robio/"
+      ]
+    },
+    {
+      "id": "bestvisionbestvisiontechnologies",
+      "name": "best vision (best vision technologies)",
+      "source_url": "https://raem.kz/startup/best-vision/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/best-vision/"
+      ]
+    },
+    {
+      "id": "astanahub",
+      "name": "Astana Hub",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "qvetai",
+      "name": "qvet ai",
+      "source_url": "https://raem.kz/startup/qvet-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/qvet-ai/"
+      ]
+    },
+    {
+      "id": "verigram",
+      "name": "verigram",
+      "source_url": "https://raem.kz/startup/verigram/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/verigram/"
+      ]
+    },
+    {
+      "id": "protectoraiprotectorai",
+      "name": "protector ai (тоо «protector ai»)",
+      "source_url": "https://raem.kz/startup/protector-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/protector-ai/"
+      ]
+    },
+    {
+      "id": "easycoins",
+      "name": "easycoins",
+      "source_url": "https://raem.kz/startup/easycoins/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/easycoins/"
+      ]
+    },
+    {
+      "id": "keysoraeducation",
+      "name": "keysora education",
+      "source_url": "https://raem.kz/startup/keysora-education/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/keysora-education/"
+      ]
+    },
+    {
+      "id": "labhelpme",
+      "name": "labhelp.me",
+      "source_url": "https://raem.kz/startup/labhelp-me/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/labhelp-me/"
+      ]
+    },
+    {
+      "id": "taxexpress",
+      "name": "taxexpress",
+      "source_url": "https://raem.kz/startup/taxexpress/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "fintech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/taxexpress/"
+      ]
+    },
+    {
+      "id": "armetaai",
+      "name": "armeta ai",
+      "source_url": "https://raem.kz/startup/armeta-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "сан-франциско",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/armeta-ai/"
+      ]
+    },
+    {
+      "id": "datalabkz",
+      "name": "DataLab KZ",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "digitalalfarabi",
+      "name": "Digital Al-Farabi",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "tsarkawebtotem",
+      "name": "tsarka / webtotem",
+      "source_url": "https://raem.kz/startup/tsarka-webtotem/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "cybersecurity",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/tsarka-webtotem/"
+      ]
+    },
+    {
+      "id": "leapingai",
+      "name": "leaping ai",
+      "source_url": "https://raem.kz/startup/leaping-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "сан-франциско",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/leaping-ai/"
+      ]
+    },
+    {
+      "id": "godays",
+      "name": "godays",
+      "source_url": "https://raem.kz/startup/godays/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/godays/"
+      ]
+    },
+    {
+      "id": "tele2kazakhstan",
+      "name": "Tele2 Kazakhstan",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "relog",
+      "name": "relog",
+      "source_url": "https://raem.kz/startup/relog/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "logistics-and-autotech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/relog/"
+      ]
+    },
+    {
+      "id": "beksar",
+      "name": "beksar",
+      "source_url": "https://raem.kz/startup/beksar/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/beksar/"
+      ]
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "hemolabsumaia",
+      "name": "hemo.labs (umaia)",
+      "source_url": "https://raem.kz/startup/hemo-labs/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "на проверке",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/hemo-labs/"
+      ]
+    },
+    {
+      "id": "impactxifximpactfinance",
+      "name": "impactx / ifx (тоо «impact finance»)",
+      "source_url": "https://raem.kz/startup/impactx-ifx/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "fintech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/impactx-ifx/"
+      ]
+    },
+    {
+      "id": "behype",
+      "name": "behype",
+      "source_url": "https://raem.kz/startup/behype/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/behype/"
+      ]
+    },
+    {
+      "id": "codiplay",
+      "name": "codiplay",
+      "source_url": "https://raem.kz/startup/codiplay/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "edtech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/codiplay/"
+      ]
+    },
+    {
+      "id": "taylorkz",
+      "name": "taylor.kz",
+      "source_url": "https://raem.kz/startup/taylor-kz/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/taylor-kz/"
+      ]
+    },
+    {
+      "id": "targetaikazdream",
+      "name": "Target AI (KazDream)",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "wonder",
+      "name": "wonder",
+      "source_url": "https://raem.kz/startup/wonder/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "сан-франциско",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/wonder/"
+      ]
+    },
+    {
+      "id": "datanomix",
+      "name": "Datanomix",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "resti",
+      "name": "resti",
+      "source_url": "https://raem.kz/startup/resti/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/resti/"
+      ]
+    },
+    {
+      "id": "huaweicloudkz",
+      "name": "Huawei Cloud KZ",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "tanys",
+      "name": "tanys",
+      "source_url": "https://raem.kz/startup/tanys/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/tanys/"
+      ]
+    },
+    {
+      "id": "qazbottechnologies",
+      "name": "qazbot technologies",
+      "source_url": "https://raem.kz/startup/qazbot-technologies/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "hardware-and-robotics",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/qazbot-technologies/"
+      ]
+    },
+    {
+      "id": "senim",
+      "name": "Senim",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "kense",
+      "name": "kense",
+      "source_url": "https://raem.kz/startup/kense/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/kense/"
+      ]
+    },
+    {
+      "id": "kwaaka",
+      "name": "kwaaka",
+      "source_url": "https://raem.kz/startup/kwaaka/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/kwaaka/",
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "nci",
+      "name": "NCI (Национальные информационные технологии)",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "alaqantechnologies",
+      "name": "alaqan technologies",
+      "source_url": "https://raem.kz/startup/alaqan-technologies/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "hardware-and-robotics",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/alaqan-technologies/"
+      ]
+    },
+    {
+      "id": "msspglobal",
+      "name": "mssp.global",
+      "source_url": "https://raem.kz/startup/mssp-global/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "cybersecurity",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/mssp-global/"
+      ]
+    },
+    {
+      "id": "egov",
+      "name": "eGov (электронное правительство)",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "openrbt",
+      "name": "openrbt",
+      "source_url": "https://raem.kz/startup/openrbt/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "hardware-and-robotics",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/openrbt/"
+      ]
+    },
+    {
+      "id": "garderob",
+      "name": "garderob",
+      "source_url": "https://raem.kz/startup/garderob-2/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/garderob-2/"
+      ]
+    },
+    {
+      "id": "geometrygeometry",
+      "name": "geometry (тоо geometry)",
+      "source_url": "https://raem.kz/startup/geometry/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/geometry/"
+      ]
+    },
+    {
+      "id": "kuanfy",
+      "name": "kuanfy",
+      "source_url": "https://raem.kz/startup/kuanfy/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "other",
+      "city_hint": "г. алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/kuanfy/"
+      ]
+    },
+    {
+      "id": "company58f95cb9",
+      "name": "тата",
+      "source_url": "https://raem.kz/startup/tata/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/tata/"
+      ]
+    },
+    {
+      "id": "biometricvision",
+      "name": "biometric.vision",
+      "source_url": "https://raem.kz/startup/biometric-vision/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "cybersecurity",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/biometric-vision/",
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "pearlingo",
+      "name": "pearlingo",
+      "source_url": "https://raem.kz/startup/pearlingo/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/pearlingo/"
+      ]
+    },
+    {
+      "id": "cubaiot",
+      "name": "cuba iot",
+      "source_url": "https://raem.kz/startup/cuba-iot/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "hardware-and-robotics",
+      "city_hint": "г. астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/cuba-iot/"
+      ]
+    },
+    {
+      "id": "flectionai",
+      "name": "flection.ai",
+      "source_url": "https://raem.kz/startup/flection-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "на проверке",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/flection-ai/"
+      ]
+    },
+    {
+      "id": "kz",
+      "name": "учёт.kz (гк «учёт»)",
+      "source_url": "https://raem.kz/startup/uchet-kz/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/uchet-kz/"
+      ]
+    },
+    {
+      "id": "smartustaz",
+      "name": "Smart Ustaz",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "komprakz",
+      "name": "kompra.kz",
+      "source_url": "https://raem.kz/startup/kompra-kz/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "b2b-and-saas",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/kompra-kz/"
+      ]
+    },
+    {
+      "id": "cotype",
+      "name": "Cotype",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "biodrop",
+      "name": "biodrop",
+      "source_url": "https://raem.kz/startup/biodrop/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "hardware-and-robotics",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/biodrop/"
+      ]
+    },
+    {
+      "id": "emdeuai",
+      "name": "emdeu ai+",
+      "source_url": "https://raem.kz/startup/emdeu-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "fintech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/emdeu-ai/"
+      ]
+    },
+    {
+      "id": "qazventure",
+      "name": "QazVenture",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "beyimaibeyimtech",
+      "name": "beyim.ai (beyimtech)",
+      "source_url": "https://raem.kz/startup/beyim-ai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "астана",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/beyim-ai/"
+      ]
+    },
+    {
+      "id": "aviatafreedomtravelchocotravel",
+      "name": "aviata / freedom travel и chocotravel",
+      "source_url": "https://raem.kz/startup/aviata-chocotravel/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "e-commerce-and-marketplaces",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/aviata-chocotravel/"
+      ]
+    },
+    {
+      "id": "arlanbiotech",
+      "name": "Arlan Biotech",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "quantumaikz",
+      "name": "Quantum AI KZ",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "targetai",
+      "name": "Target AI",
+      "source_url": "https://aiqazaqstan.com/ru/startups",
+      "source_type": "AI Qazaqstan registry",
+      "record_type": "unclassified",
+      "category_hint": "",
+      "city_hint": "",
+      "status": "PENDING",
+      "notes": "Запись обнаружена в реестре AI Qazaqstan; организация/стартап и первичный источник требуют классификации.",
+      "discovery_sources": [
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    },
+    {
+      "id": "grandmobile",
+      "name": "grand mobile",
+      "source_url": "https://raem.kz/startup/grand-mobile/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "vr-and-gaming",
+      "city_hint": "усть-каменогорск",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/grand-mobile/"
+      ]
+    },
+    {
+      "id": "esai",
+      "name": "esai",
+      "source_url": "https://raem.kz/startup/esai/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "ai-and-deeptech",
+      "city_hint": "бишкек",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/esai/"
+      ]
+    },
+    {
+      "id": "zebraeye",
+      "name": "zebraeye",
+      "source_url": "https://raem.kz/startup/zebraeye/",
+      "source_type": "RAEM Startup Radar",
+      "record_type": "unclassified",
+      "category_hint": "healthtech-and-medtech",
+      "city_hint": "алматы",
+      "status": "PENDING",
+      "notes": "Обнаружен в каталоге RAEM; первичный источник ещё не добавлен.",
+      "discovery_sources": [
+        "https://raem.kz/startup/zebraeye/",
+        "https://aiqazaqstan.com/ru/startups"
+      ]
+    }
+  ],
+  "source_metrics": {
+    "astana_hub_ventures_cards": 59,
+    "raem_profile_cards": 195,
+    "ai_qazaqstan_headings": 64
+  }
+}

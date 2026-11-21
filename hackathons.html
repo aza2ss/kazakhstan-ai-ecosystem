@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f6f2">
+  <meta name="description" content="Каталог технологических соревнований и хакатонов Казахстана: фильтры, карта, календарь и архив.">
+  <title>Хакатоны Казахстана · KAZAI</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/src/styles.css?v=6"><link rel="stylesheet" href="/src/hackathons.css?v=2">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+  <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script defer src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script defer src="/src/hackathons.js?v=1"></script>
+</head>
+<body class="hack-body">
+  <header class="topbar hack-topbar">
+    <a class="brand" href="/" aria-label="KAZAI — главная"><span class="brand-mark">K</span><span>KAZAI<span class="brand-dot">.</span></span></a>
+    <nav class="nav hack-nav" aria-label="Основная навигация"><a href="/">Главная</a><a href="/#startups">Стартапы</a><a href="/hackathons" aria-current="page">Хакатоны</a><a href="/#about">О платформе</a></nav>
+    <div class="top-actions"><a class="button button-dark button-small" href="/hackathons/organizers">Предложить событие <span>↗</span></a><details class="hack-menu"><summary class="menu-toggle" aria-label="Открыть меню"><span></span><span></span><span></span></summary><nav class="hack-menu-panel" aria-label="Меню разделов"><a href="/">Главная</a><a href="/#startups">Стартапы</a><a href="/hackathons">Хакатоны</a><a href="/hackathons/events">Все события</a><a href="/hackathons/map">Карта</a><a href="/hackathons/calendar">Календарь</a><a href="/hackathons/archive">Архив</a><a href="/hackathons/about">О проекте</a></nav></details></div>
+  </header>
+  <main id="hackathonApp" class="hack-app wrap">
+    <div class="hack-loader" role="status">Загружаю каталог…</div>
+  </main>
+  <footer class="footer hack-footer"><div class="wrap footer-inner"><a class="brand" href="/"><span class="brand-mark">K</span><span>KAZAI<span class="brand-dot">.</span></span></a><a href="/hackathons/events">Все события</a><a href="/hackathons/map">Карта</a><a href="/hackathons/calendar">Календарь</a><a href="/hackathons/archive">Архив</a><a href="/hackathons/about">О проекте</a><span>© 2026 KAZAI Ecosystem</span></div></footer>
+</body>
+</html>
