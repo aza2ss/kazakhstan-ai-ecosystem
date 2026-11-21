@@ -2,35 +2,75 @@
   {
     "id": "higgsfield",
     "record_type": "startup",
-    "category_slugs": ["ai-ml", "generative-ai"],
-    "geography_tags": ["kazakhstan-founded-international", "kazakhstan-based-team"],
+    "category_slugs": [
+      "ai-ml",
+      "generative-ai"
+    ],
+    "geography_tags": [
+      "kazakhstan-founded-international",
+      "kazakhstan-based-team"
+    ],
     "ai_relevance": "AI Core",
     "verification_status": "PARTIALLY_VERIFIED",
     "public_contact": "Пресса: press@higgsfield.ai; поддержка продукта и оплаты: support@higgsfield.ai",
-    "official_socials": ["https://x.com/higgsfield", "https://www.instagram.com/higgsfield.ai", "https://www.youtube.com/@HiggsfieldAI", "https://www.linkedin.com/company/higgsfield", "https://www.tiktok.com/@higgsfield.ai"],
+    "official_socials": [
+      "https://x.com/higgsfield",
+      "https://www.instagram.com/higgsfield.ai",
+      "https://www.youtube.com/@HiggsfieldAI",
+      "https://www.linkedin.com/company/higgsfield",
+      "https://www.tiktok.com/@higgsfield.ai"
+    ],
     "primary_source": "https://higgsfield.ai/blog/higgsfield-series-b-extension-tcv-nvidia",
     "secondary_source": "https://higgsfield.ai/contact",
     "team_members": [
-      {"name": "Alex Mashrabov", "role": "Сооснователь и CEO"},
-      {"name": "Yerzat Dulat", "role": "Сооснователь"},
-      {"name": "Mahi De Silva", "role": "Сооснователь"}
+      {
+        "name": "Alex Mashrabov",
+        "role": "Сооснователь и CEO"
+      },
+      {
+        "name": "Yerzat Dulat",
+        "role": "Сооснователь"
+      },
+      {
+        "name": "Mahi De Silva",
+        "role": "Сооснователь"
+      }
     ],
     "checked_at": "2026-11-21"
   },
   {
     "id": "soup",
     "record_type": "startup",
-    "category_slugs": ["ai-ml", "generative-ai", "deeptech", "saas-b2b"],
-    "geography_tags": ["kazakhstan-founded-international", "kazakhstan-based-team"],
+    "category_slugs": [
+      "ai-ml",
+      "generative-ai",
+      "deeptech",
+      "saas-b2b"
+    ],
+    "geography_tags": [
+      "kazakhstan-founded-international",
+      "kazakhstan-based-team"
+    ],
     "ai_relevance": "AI Core",
     "verification_status": "PARTIALLY_VERIFIED",
     "public_contact": "Рабочие и общие вопросы: team@trysoup.dev",
-    "official_socials": ["https://github.com/MakazhanAlpamys/Soup", "https://www.linkedin.com/company/trysoup", "https://t.me/souptasters"],
+    "official_socials": [
+      "https://github.com/MakazhanAlpamys/Soup",
+      "https://www.linkedin.com/company/trysoup",
+      "https://t.me/souptasters"
+    ],
     "primary_source": "https://trysoup.dev/about",
     "secondary_source": "https://www.linkedin.com/company/trysoup",
     "team_members": [
-      {"name": "Rafik Mamedov", "role": "Сооснователь и CEO"},
-      {"name": "Alpamys Makazhan", "role": "Основатель и CTO", "url": "https://www.linkedin.com/in/justalpamys"}
+      {
+        "name": "Rafik Mamedov",
+        "role": "Сооснователь и CEO"
+      },
+      {
+        "name": "Alpamys Makazhan",
+        "role": "Основатель и CTO",
+        "url": "https://www.linkedin.com/in/justalpamys"
+      }
     ],
     "checked_at": "2026-11-21"
   },
@@ -42,8 +82,15 @@
     "activity_geography": "Казахстан",
     "description": "Cerebra разрабатывает AI-систему для раннего выявления инсульта по медицинским снимкам. Официальный сайт описывает веб-платформу и мобильное приложение; проект создан Almaty A.I. Lab.",
     "record_type": "startup",
-    "category_slugs": ["ai-ml", "healthtech", "medtech"],
-    "geography_tags": ["founded-in-kazakhstan", "kazakhstan-based-team"],
+    "category_slugs": [
+      "ai-ml",
+      "healthtech",
+      "medtech"
+    ],
+    "geography_tags": [
+      "founded-in-kazakhstan",
+      "kazakhstan-based-team"
+    ],
     "ai_relevance": "AI Core",
     "verification_status": "PARTIALLY_VERIFIED",
     "public_contact": "Общие вопросы: info@cerebra.kz; Алматы, Казахстан",
@@ -56,8 +103,14 @@
   {
     "id": "cybernet-ai",
     "record_type": "startup",
-    "category_slugs": ["ai-ml", "saas-b2b"],
-    "geography_tags": ["founded-in-kazakhstan", "kazakhstan-based-team"],
+    "category_slugs": [
+      "ai-ml",
+      "saas-b2b"
+    ],
+    "geography_tags": [
+      "founded-in-kazakhstan",
+      "kazakhstan-based-team"
+    ],
     "ai_relevance": "AI Core",
     "verification_status": "PARTIALLY_VERIFIED",
     "public_contact": "Общие вопросы: info@cyber-net.ai; +7 700-644-92-09; Алматы, ул. Маркова 22/37, БЦ RAMS, 5 этаж",
@@ -77,8 +130,15 @@
     "team_location": "Астана, Казахстан",
     "activity_geography": "Казахстан",
     "record_type": "startup",
-    "category_slugs": ["ai-ml", "deeptech", "industrialtech"],
-    "geography_tags": ["founded-in-kazakhstan", "kazakhstan-based-team"],
+    "category_slugs": [
+      "ai-ml",
+      "deeptech",
+      "industrialtech"
+    ],
+    "geography_tags": [
+      "founded-in-kazakhstan",
+      "kazakhstan-based-team"
+    ],
     "ai_relevance": "AI Applied",
     "verification_status": "PARTIALLY_VERIFIED",
     "public_contact": "Коммерческие запросы: info@qtwin.io; Астана, Alem.ai, B1",
@@ -91,8 +151,14 @@
   {
     "id": "documentolog",
     "record_type": "technology-company",
-    "category_slugs": ["saas-b2b", "govtech"],
-    "geography_tags": ["founded-in-kazakhstan", "kazakhstan-based-team"],
+    "category_slugs": [
+      "saas-b2b",
+      "govtech"
+    ],
+    "geography_tags": [
+      "founded-in-kazakhstan",
+      "kazakhstan-based-team"
+    ],
     "ai_relevance": "AI Applied",
     "verification_status": "PARTIALLY_VERIFIED",
     "public_contact": "Поддержка разработчиков и вопросы по сервису: dev@documentolog.com",
@@ -100,6 +166,36 @@
     "primary_source": "https://documentolog.com/en/google-oauth",
     "secondary_source": "https://documentolog.kz/",
     "team_members": [],
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "ask-alem-ai",
+    "tagline": "Контроль полномочий, расходов и результатов ИИ-агентов",
+    "description": "Alem разрабатывает инструменты контроля ИИ-агентов: идентификацию агента, правила и бюджеты, согласование действий человеком и журнал решений. Alem ROI & Agent Gateway доступен в закрытой бете; на сайте компании указано, что проведение реальных платежей в бете не запущено. В портфеле Astana Hub Ventures проект указан как Ask Alem ai.",
+    "industry": "Инфраструктура ИИ и контроль ИИ-агентов",
+    "record_type": "startup",
+    "category_slugs": [
+      "ai-ml",
+      "saas-b2b"
+    ],
+    "geography_tags": [
+      "astana-hub-ventures-portfolio"
+    ],
+    "ai_relevance": "AI Core",
+    "verification_status": "PARTIALLY_VERIFIED",
+    "public_contact": "Основатель и CEO Dinara Abdizhaparova: dinara@askalem.com",
+    "official_socials": [
+      "https://www.linkedin.com/in/dinara-a-2a48a358/"
+    ],
+    "primary_source": "https://askalem.com/",
+    "secondary_source": "https://astanahub.vc/portfolio.html",
+    "team_members": [
+      {
+        "name": "Dinara Abdizhaparova",
+        "role": "Основатель и CEO",
+        "url": "https://www.linkedin.com/in/dinara-a-2a48a358/"
+      }
+    ],
     "checked_at": "2026-11-21"
   }
 ]
