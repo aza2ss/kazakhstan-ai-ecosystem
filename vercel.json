@@ -1,13 +1,7 @@
 {
   "functions": {
     "server.mjs": {
-      "includeFiles": [
-        "data/**/*.json",
-        "migrations/**/*.sql",
-        "*.html",
-        "src/**/*",
-        "favicon.svg"
-      ]
+      "includeFiles": "**/*"
     }
   }
 }
